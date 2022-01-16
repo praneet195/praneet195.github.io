@@ -7,12 +7,13 @@ languages:
 frameworks:
   - item: Pytorch
   - item: TensorFlow
-  - item: ROS
-  - item: MLPack
-  - item: Pandas
-  - item: Sklearn
+  - item: Numpy
+  - item: OpenCV
+  - item: FFMpeg
+  - item: JM, HM, VVC
 
 
 tools:
   - item: Bash
   - item: Git & Github
+  - item: Vim
