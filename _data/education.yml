@@ -1,27 +1,18 @@
-- name: Purdue University
-  degree: PhD
-
-
-
-- name: Purdue University
-  degree: Master of Science in Electrical and Computer Engineering Technology
+- name: Purdue University, West Lafayette
+  degree: PhD in Electrical and Computer Engineering, (Communications, Networking, Signal & Image Processing)
   coursework:
-    - thing: Data Analytics
-    - thing: Big Data Machine Learning
-    - thing: Experimental Statistics
-    - thing: Robot Programming with ROS
-    - thing: Bioinformatics and Biocomputing Systems
-
-
-- name: PSG College of Technology
-  degree: Bachelor of Engineering in Biomedical Engineering
-  coursework:
-    - thing: Data Structures
-    - thing: Signal Processing
-    - thing: Object Oriented Programming
-    - thing: Operating Systems
-    - thing: Image Processing
+    - thing: Computer Vision
+    - thing: Digital Image Processing I
+    - thing: Digital Video Systems
+    - thing: Deep Learning
+    - thing: Digital Signal Processing I
+    - thing: Random Variables
+    - thing: Computation Models & Methods
+    - thing: Introduction to Convex Optimization
     - thing: Linear Algebra
-    - thing: Software Engineering
-    - thing: Data Analytics
-    - thing: Artificial Intelligence
+
+
+
+- name: Ramaiah Institute of Technology
+  degree: Bachelor of Engineering in Electronics & Communication
+
