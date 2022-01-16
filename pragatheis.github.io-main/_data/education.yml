@@ -1,0 +1,27 @@
+- name: Purdue University
+  degree: PhD in Technology
+
+
+
+- name: Purdue University
+  degree: Master of Science in Electrical and Computer Engineering Technology
+  coursework:
+    - thing: Data Analytics
+    - thing: Big Data Machine Learning
+    - thing: Experimental Statistics
+    - thing: Robot Programming with ROS
+    - thing: Bioinformatics and Biocomputing Systems
+
+
+- name: PSG College of Technology
+  degree: Bachelor of Engineering in Biomedical Engineering
+  coursework:
+    - thing: Data Structures
+    - thing: Signal Processing
+    - thing: Object Oriented Programming
+    - thing: Operating Systems
+    - thing: Image Processing
+    - thing: Linear Algebra
+    - thing: Software Engineering
+    - thing: Data Analytics
+    - thing: Artificial Intelligence

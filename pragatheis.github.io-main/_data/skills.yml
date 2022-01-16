@@ -1,0 +1,18 @@
+languages:
+  - item: Python
+  - item: C++
+  - item: C
+
+
+frameworks:
+  - item: Pytorch
+  - item: TensorFlow
+  - item: ROS
+  - item: MLPack
+  - item: Pandas
+  - item: Sklearn
+
+
+tools:
+  - item: Bash
+  - item: Git & Github
