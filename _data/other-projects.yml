@@ -1,31 +1,23 @@
-- name: Housing Price Prediction in NYC Boroughs
-  url:
-  code:
+- name: MV-Tractus
+  url: https://github.com/jishnujayakumar/MV-Tractus
+  code: Github
   description:
-    - point: Performed feature selection for housing price prediction by performing Data Wrangling and Exploratory Data Analysis.
-    - point: Reduced processing time for data pipelines by 1.5 times using Dask and PySpark.
-    - point: Created a dashboard for visualization of the features that influence the price of a house for each zipcode in NYC boroughs.
-    - point: Built Linear Regression, Decision Tree and Ensemble models to accurately predict the price of a house in NYC boroughs.
-  used:
-    - thing: Pandas
-    - thing: PySpark
-    - thing: Dask
-    - thing: Numpy
-    - thing: Sklearn
+    - point: Tool to extract motion vectors from H.264 bit-streams
 
-- name: Building Energy Consumption Prediction
-  url:
-  code:
+- name: Information Insertion into H.264 bit-streams using SEI-NALU
+  url: https://github.com/praneet195/FFMPEG_SEI_NALU
+  code: Github
   description:
-    - point: Utilized building meta-data and weather data to predict a building's water, electricity and gas meter readings.
-    - point: Performed data cleaning and exploratory data analysis to identify outliers, impute missing data and identify correlations in data.
-    - point: Improved model predictive power by performing feature engineering and used LightGBM model to train on the data.
-    - point: Utilized cross-validation to train and evaluate the model and visualized the results by performing PCA on the data.
-  used:
-    - thing: Pandas
-    - thing: Dask
-    - thing: XGBoost
-    - thing: LightGBM
-    - thing: Sklearn
+    - point: To allow for simpler marker insertion into H.264 video streams that can not only hold additional metadata such as sensor values corresponding to frames, bounding box values etc but can also help in live stream synchronisation.
+
+- name: If You Know What I've Seen
+  url: https://github.com/Purdue-ECE634/final-project-team-11
+  code: Github
+  description:
+    - point: An Audio Landmark Detection based approach for Video Fingerprinting
+
+
+
+
 
 
