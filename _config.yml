@@ -1,20 +1,20 @@
 # Site settings
-name: Pragatheiswar Giri
-title: Pragatheiswar Giri
-description: Biomedical scientist working in Cancer research, passionate about machine learning Robotics
-url: https://pragatheis.github.io/
+name: Praneet Singh
+title: Praneet Singh
+description: PhD Student at Purdue
+url: https://praneet195.github.io/
 baseurl: ''
-email: pgiri@purdue.edu
+email: singh671@purdue.edu
 resume: CV.pdf
 social:
   - title: email
-    url: mailto:pgiri@purdue.edu
+    url: mailto:singh671@purdue.edu
   - title: github
-    url: https://github.com/pragatheis
+    url: https://github.com/praneet195
   - title: linkedin
-    url: https://linkedin.com/in/pragatheis
+    url: https://linkedin.com/in/praneet195
   - title: Google Scholar
-    url: https://scholar.google.com/citations?user=TWgrVQgAAAAJ
+    url: https://scholar.google.com/citations?user=TUX6cg8AAAAJ&hl
 
 # Build settings
 markdown: kramdown
