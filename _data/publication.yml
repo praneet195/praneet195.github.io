@@ -1,4 +1,5 @@
-- name: TA-QT: Task Aware Quad-Tree CU Partitioning and Quantization for HEVC
+- name: TA-QT, Task Aware Quad-Tree CU Partitioning and Quantization for HEVC
+  url: 
   used:
     - thing: IEEE International Conference on Image Processing 2022, In Progress
 
