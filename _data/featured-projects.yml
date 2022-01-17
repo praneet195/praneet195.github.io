@@ -1,34 +1,36 @@
-- name: Soft Robotic Skin
+- name: Task Aware HEVC Video Encoding using Lightweight and Efficient Neural Networks
   description:
-    - point: Developed and optimized a neuromorphic architecture for printable organic neurons used in a Soft Robotic Skin with zero negative weights constrain.
-    - point: I was majorly involved in developing the Neural Network algorithm and testing the electrical neurons. The ANN was physically implemented, tested and verified.
+    - point: Developed a Task Aware CU Frame Partitioning Procedure for video encoders like HEVC
+    - point: Used lightweight edge-based neural networks that predicts this frame partitioning based on the task at hand to assistthe encoder i.e for region of interest video encoding
+    - point: Helps save transmission bit-rate and reduces encoding time while allowing learning based analytics to maintain peak performance. Verified on KITTI pedestrian dataset (Inter) and IJB-C face recognition dataset (Intra).
 
-  used:
-    - thing: Pytorch
-    - thing: TensorFlow
-    - thing: PSpice
-    - thing: Matlab
-
-- name: Autonomous RC Car
+- name: Understanding the Effects of Compression on Computer Vision Applications
   description:
-    - point: Built and Programmed a R/C race car to navigate the halls of a generated map at extreme speeds autonomously in a rally race.
-    - point: Utilized AMCL in ROS to acquire the IMU data and the Hokuyo LIDAR to localize ourselves in a known map
-    - point: Finished 3rd in KNOY 500 race.
-  used:
-    - thing: ROS
-    - thing: Matlab
-    - thing: LIDAR and IMU Intergration
+    - point: Worked on understanding how video compression affects common computer vision tasks like face recognition and pedestrian detection
+    - point: Performed experiments on common public datasets like IJB-C, LFW, DMD, KITTI, Caltech etc., to understand howcompression affects scenarios of different illumination, resolution, camera-types (fisheye), camera-streams (RGB vsIR) and skintones
+    - point: Worked on mitigating the effects of compression such as developing Low-Light enhancement frameworks and taskaware encoders
 
 
-
-- name: Protein Bioinformatics
-
+- name: Lightweight Compression of Intermediate Neural Network Features
   description:
-    - point: Drug Delivery Enhancement method using Electric pulses for breast cancer cells
-    - point: Optimized the electric field strength and pulse duration to increase the drug permeability in breast cancer cells.
-    - point: performed multiple label-free quantitative proteomics studies on various drugs and analyzed over 30,000 proteins and genes to study the mechanism of action
-  used:
-    - thing: Python
-    - thing: Prism 9
-    - thing: Matlab
+    - point: Encoding neural network features using existing vidoe codecs to see if it is a better alternative to encoding images/frames
+    - point: Working to understand if neural networks can be split effectively such that intermediate features can be encoded and transmitted
+    - point: Finding network splits such that the best balance between saving bit-rate and maintaining task accuracy can be obtained
+    - point: Developing Feature-To-Image mapping \& Auto-Encoder architectures for dimensionality reduction of features before encoding
     
+- name: Foreground Segmentation for Camera-Trap Images
+  description:
+    - point: Developed a Robust PCA based saliency predictor that helps with the background-foreground segmentation,identificationand population estimation of fauna in camera-trap images from Senegal
+    - point: The RPCA method does not require training and it’s performance is comparable to learning models like R3-Net
+    - point: The saliency predictor is used to detect and track animals, estimate population density and regular animal activity patterns
+    
+- name: EdgeDetect - A framework to detect DDoS attacks on Edge nodes
+  description:
+    - point: Worked with Dr.   Reshmi Mitra from Southeast Missouri State University in developing a novel framework that helped in detecting DDoS attacks on Edge Devices using Recurrent Neural Networks
+    - point: Achieved SOTA performance on the UNSW 2015 dataset while ensuring minimal model architecture i.e can be runon edge devices
+
+- name: Traffic Analytics Architecture and Dataset for Indian Roads using a Monocular Surveillance Camera Network
+  description:
+    - point: Worked with Dr.  Abhay Sharma and Dr.  Raghu Krishnapuram in developing solutions to help in Traffic Analyticsthat involved tasks like vehicle counting, license-plate detection speed estimation and queue-length estimation
+    - point: Built a real-time front-end WebServer System that serves live video streams in RTMP and HLS formats. Implementedthe server with methods for Discovery,Sharing Content,Routing,Congestion and Load Balancing
+    - point: The entire framework has been deployed in Electronic City, Bangalore, India
