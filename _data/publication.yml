@@ -3,7 +3,7 @@
   used:
     - thing: IEEE International Conference on Image Processing 2022, In Progress
 
-- name: Edge-Detect: Edge-centric Network Intrusion Detection using Deep Neural Network
+- name: Edge-Detect, Edge-centric Network Intrusion Detection using Deep Neural Network
   url: https://ieeexplore.ieee.org/abstract/document/9369469
   used:
     - thing: IEEE Annual Consumer Communications & Networking Conference (CCNC), 2021
@@ -18,7 +18,7 @@
   used: 
     - thing: International Conference on Recent Trends in Computational Engineering and Technologies (ICTRCET) 2018
     
-- name: MV-Tractus: A simple and fast tool to extract motion vectors from H264 encoded video streams
+- name: MV-Tractus, A simple and fast tool to extract motion vectors from H264 encoded video streams
   url: https://zenodo.org/record/4422613#.YeXVxf7MKHs
   used:
     - thing: Zenodo, 2018
