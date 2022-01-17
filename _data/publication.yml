@@ -1,10 +1,38 @@
-- name: Analysis of Pathways in Triple-Negative Breast Cancer Cells
-        Treated with the Combination of Electrochemotherapy
-  url: https://biointerfaceresearch.com/wp-content/uploads/2021/02/20695837115.1345313464.pdf
+- name: TA-QT: Task Aware Quad-Tree CU Partitioning and Quantization for HEVC
   used:
-    - thing: Biointerface Research in Applied Chemistry, 13453-13464
+    - thing: IEEE International Conference on Image Processing 2022, In Progress
 
-- name: Cisplatin-based Electrochemotherapy Significantly Downregulates Key Heat Shock Proteins
-  url: https://link.springer.com/article/10.1007/s12010-021-03703-9
+- name: Edge-Detect: Edge-centric Network Intrusion Detection using Deep Neural Network
+  url: https://ieeexplore.ieee.org/abstract/document/9369469
   used:
-    - thing: Applied Biochemistry and Biotechnology, 1-12
+    - thing: IEEE Annual Consumer Communications & Networking Conference (CCNC), 2021
+    
+- name: Animal localization in camera-trap images with complex backgrounds
+  url: https://ieeexplore.ieee.org/abstract/document/9094613/
+  used:
+    - thing: IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI), 2020
+
+    
+- name: Performance evaluation of cryptographic ciphers on IoT devices
+  url: https://arxiv.org/abs/1812.02220
+  used: 
+    - thing: International Conference on Recent Trends in Computational Engineering and Technologies (ICTRCET) 2018
+    
+- name: MV-Tractus: A simple and fast tool to extract motion vectors from H264 encoded video streams
+  url: https://zenodo.org/record/4422613#.YeXVxf7MKHs
+  used:
+    - thing: Zenodo, 2018
+    
+- name: Detection of Anomalous Behaviour in Crowds Using Newton Pratt's Curve Fitting Technique
+  url: https://ieeexplore.ieee.org/abstract/document/8493879
+  used: 
+    - thing: International Conference on Computing, Communication and Networking Technologies (ICCCNT), 2018
+    
+- name: Video Analytics using YOLO and DeepSORT for Traffic Modelling
+  url: https://drive.google.com/file/d/1lTWV3lz41422TE0hZ712PUlBM_Rnii5u
+  used:
+    - thing: Cyber-Physical Systems Symposium (CyPhySS), 2018
+ 
+- name: A Traffic Analytics Architecture and Dataset for Indian Roads Using a Monocular Surveillance Camera Network
+  url: https://drive.google.com/file/d/1rDEnCwSn6HnEn-W4NoGakE7Q7fRIKzSi/view?usp=sharing
+ 
