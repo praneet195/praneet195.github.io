@@ -17,7 +17,10 @@
     - point: An Audio Landmark Detection based approach for Video Fingerprinting
 
 
-
-
+- name: Optimization of Deep Neural Networks using Stochastic Quasi-Newton Methods - A Practical Study
+  url: 
+  code:
+  description:
+    - point: An understanding of whether second-order Quadi-Newton methods can be used for practical Deep Learning applications. If so, can they compete with popular first-order methods like SGD.
 
 
