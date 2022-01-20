@@ -11,7 +11,7 @@
     - point: To allow for simpler marker insertion into H.264 video streams that can not only hold additional metadata such as sensor values corresponding to frames, bounding box values etc but can also help in live stream synchronisation.
 
 - name: If You Know What I've Seen
-  url: https://github.com/Purdue-ECE634/final-project-team-11
+  url: https://github.com/praneet195/IYKWIM
   code: Github
   description:
     - point: An Audio Landmark Detection based approach for Video Fingerprinting
