@@ -1,7 +1,17 @@
-- name: TA-QT, Task Aware Quad-Tree CU Partitioning and Quantization for HEVC
+- name: End-to-end Evaluation of Practical Video Analytics Systems for Face Detection and Recognition
   url: 
   used:
-    - thing: IEEE International Conference on Image Processing 2022, In Progress
+    - thing: Autonomous Vehicles and Machines, Electronic Imaging, 2023 (In Progress)
+
+- name: Evaluating Image Quality Estimators for Face Matching
+  url: https://ieeexplore.ieee.org/abstract/document/9874569
+  used:
+    - thing: IEEE Conference on Multimedia Information Processing and Retrieval (MIPR)
+
+- name: Video-Analytics Task-Aware Quad-Tree Partitioning and Quantization for HEVC
+  url: https://ieeexplore.ieee.org/abstract/document/9897965
+  used:
+    - thing: IEEE International Conference on Image Processing 2022
 
 - name: Edge-Detect, Edge-centric Network Intrusion Detection using Deep Neural Network
   url: https://ieeexplore.ieee.org/abstract/document/9369469
