@@ -1,3 +1,17 @@
+- name: Face Quality Estimation
+  description:
+    - point: Systematic evaluation of face quality estimators
+    - point: Using targeted quality estimation and datasets to better understand learning based face quality estimators
+    - point: Utilizing common distortions on face images to build better quality estimators
+    - point: A new, practical evaluation protocol that reduces the computationally complexity of quality estimator evaluation
+
+- name: End-to-end evaluation of Practical Video Analytics systems
+  description:
+    - point: Pre-processing real-world data, eliminating bias in terms of evaluation scenarios to create interpretable results 
+    - point: Creating consistent annotations for fair performance evaluation
+    - point: Exploring the performance co-dependence that exists between face detection and recognition tasks 
+    - point: Using multi-view, multi-modal data to help with end-to-end detection and recognition in different illumination conditions and recording environments
+
 - name: Task Aware HEVC Video Encoding using Lightweight and Efficient Neural Networks
   description:
     - point: Developed a Task Aware CU Frame Partitioning Procedure for video encoders like HEVC
@@ -6,9 +20,9 @@
 
 - name: Understanding the Effects of Compression on Computer Vision Applications
   description:
-    - point: Worked on understanding how video compression affects common computer vision tasks like face recognition and pedestrian detection
-    - point: Performed experiments on common public datasets like IJB-C, LFW, DMD, KITTI, Caltech etc., to understand howcompression affects scenarios of different illumination, resolution, camera-types (fisheye), camera-streams (RGB vsIR) and skintones
-    - point: Worked on mitigating the effects of compression such as developing Low-Light enhancement frameworks and taskaware encoders
+    - point: Worked on understanding how video compression affects common computer vision tasks like object classification, detection, recognition and spoofing
+    - point: Performed experiments on common public datasets like IJB-C, LFW, DMD, KITTI, Caltech etc., to understand how compression affects scenarios of different illumination, resolution, camera-types (fisheye), camera-streams (RGB vsIR) and skintones
+    - point: Worked on mitigating the effects of compression such as developing Low-Light enhancement frameworks and task-aware encoders
 
 
 - name: Lightweight Compression of Intermediate Neural Network Features
