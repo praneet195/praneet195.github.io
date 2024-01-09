@@ -1,7 +1,17 @@
+- name: NeRVA: Joint Implicit Neural Representations for Videos and Audios
+  url:
+  used:
+  - thing: IEEE International Conference on Multimedia and Expo, 2024 (Under Review)
+
+- name: Gallery-Query Protocol for Evaluating Face ImagecQuality Metrics
+  url:
+  used:
+  - thing: IEEE Multimedia Signal Processing, 2023
+
 - name: End-to-end Evaluation of Practical Video Analytics Systems for Face Detection and Recognition
   url: 
   used:
-    - thing: Autonomous Vehicles and Machines, Electronic Imaging, 2023 (In Progress)
+    - thing: Autonomous Vehicles and Machines, Electronic Imaging, 2023
 
 - name: Evaluating Image Quality Estimators for Face Matching
   url: https://ieeexplore.ieee.org/abstract/document/9874569
