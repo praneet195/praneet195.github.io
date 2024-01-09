@@ -1,29 +1,34 @@
-- name: Face Quality Estimation
-  description:
-    - point: Systematic evaluation of face quality estimators
-    - point: Using targeted quality estimation and datasets to better understand learning based face quality estimators
-    - point: Utilizing common distortions on face images to build better quality estimators
-    - point: A new, practical evaluation protocol that reduces the computationally complexity of quality estimator evaluation
 
+- name: Face Image Quality Estimation
+  description:
+  - point: Performed a systematic analysis of face image quality evaluators such as SER-FIQ and SDD-FIQA.
+  - point: Leveraged specific quality estimation and datasets for a deeper understanding of learning-based quality estimators.
+  - point: Employed prevalent distortions in face images to develop superior and more robust face quality estimators.
+  - point: Introduced a new, operational evaluation protocol that minimizes the computational complexity of assessing face image quality estimators.
+
+- name: Task Aware Video Encoding using Lightweight Edge-based Neural Networks
+  description:
+  - point: Devised a task-oriented CU Frame Partitioning procedure for video encoders like HM and VVC.
+  - point: Employed lightweight, edge-based neural networks that predict frame partitioning depending on the task to systematically aid the encoder i.e., for region-specific video encoding.
+  - point: Achieved bit-rate conservation during transmission and diminished encoding time while ensuring the performance of learning-based analytics remains.
+
+- name: Multi-modal Neural Field Representations: Audio + Video
+  description:
+  - point: Unifying the representation of audio and video with a singular Neural Field Representation.
+  - point: Worked on methods of Model Pruning and Quantization instead of focusing on modality-specific compression.
+
+- name: Understanding the Effects of Video Compression on Computer Vision Applications
+  description:
+  - point: Investigated the impact of compression on computer vision tasks such as pedestrian detection and face recognition.
+  - point: Assessed compression's influence on task performance in a variety of conditions, including differing light, resolution, camera models (e.g., fisheye), camera streams (such as RGB vs IR), facial skin tones, object dimensions, etc.
+  - point: Appraised the impact of various encoders and their configurations on task performance.
+  
 - name: End-to-end evaluation of Practical Video Analytics systems
   description:
     - point: Pre-processing real-world data, eliminating bias in terms of evaluation scenarios to create interpretable results 
     - point: Creating consistent annotations for fair performance evaluation
     - point: Exploring the performance co-dependence that exists between face detection and recognition tasks 
     - point: Using multi-view, multi-modal data to help with end-to-end detection and recognition in different illumination conditions and recording environments
-
-- name: Task Aware HEVC Video Encoding using Lightweight and Efficient Neural Networks
-  description:
-    - point: Developed a Task Aware CU Frame Partitioning Procedure for video encoders like HEVC
-    - point: Used lightweight edge-based neural networks that predicts this frame partitioning based on the task at hand to assistthe encoder i.e for region of interest video encoding
-    - point: Helps save transmission bit-rate and reduces encoding time while allowing learning based analytics to maintain peak performance. Verified on KITTI pedestrian dataset (Inter) and IJB-C face recognition dataset (Intra).
-
-- name: Understanding the Effects of Compression on Computer Vision Applications
-  description:
-    - point: Worked on understanding how video compression affects common computer vision tasks like object classification, detection, recognition and spoofing
-    - point: Performed experiments on common public datasets like IJB-C, LFW, DMD, KITTI, Caltech etc., to understand how compression affects scenarios of different illumination, resolution, camera-types (fisheye), camera-streams (RGB vsIR) and skintones
-    - point: Worked on mitigating the effects of compression such as developing Low-Light enhancement frameworks and task-aware encoders
-
 
 - name: Lightweight Compression of Intermediate Neural Network Features
   description:
