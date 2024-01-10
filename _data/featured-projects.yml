@@ -12,7 +12,7 @@
   - point: Employed lightweight, edge-based neural networks that predict frame partitioning depending on the task to systematically aid the encoder i.e., for region-specific video encoding.
   - point: Achieved bit-rate conservation during transmission and diminished encoding time while ensuring the performance of learning-based analytics remains.
 
-- name: Multi-modal Neural Field Representations: Audio + Video
+- name: Multi modal Neural Field Representations for Audio and Video
   description: Pending Patent Approval with Dolby Laboratories
   - point: Unifying the representation of audio and video with a singular Neural Field Representation.
   - point: Worked on methods of Model Pruning and Quantization instead of focusing on modality-specific compression.
