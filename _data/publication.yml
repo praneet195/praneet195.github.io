@@ -1,4 +1,4 @@
-- name: NeRVA: Joint Implicit Neural Representations for Videos and Audios
+- name: NeRVA, Joint Implicit Neural Representations for Videos and Audios
   url:
   used:
     - thing: IEEE International Conference on Multimedia and Expo, 2024 (In Progress)
