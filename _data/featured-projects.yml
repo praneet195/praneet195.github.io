@@ -1,4 +1,3 @@
-
 - name: Face Image Quality Estimation
   description:
   - point: Performed a systematic analysis of face image quality evaluators such as SER-FIQ and SDD-FIQA.
@@ -12,8 +11,8 @@
   - point: Employed lightweight, edge-based neural networks that predict frame partitioning depending on the task to systematically aid the encoder i.e., for region-specific video encoding.
   - point: Achieved bit-rate conservation during transmission and diminished encoding time while ensuring the performance of learning-based analytics remains.
 
-- name: Multi modal Neural Field Representations for Audio and Video
-  description: Pending Patent Approval with Dolby Laboratories
+- name: Multi-modal Neural Field Representations for Audio and Video, Pending Patent Approval with Dolby Laboratories
+  description: 
   - point: Unifying the representation of audio and video with a singular Neural Field Representation.
   - point: Worked on methods of Model Pruning and Quantization instead of focusing on modality-specific compression.
 
