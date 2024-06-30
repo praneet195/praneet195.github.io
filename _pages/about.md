@@ -6,7 +6,7 @@ subtitle: Machine Learning Engineer @ <a href='https://arbisoft.com'>Arbisoft</a
 
 profile:
   align: right
-  image: hasnain.png
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>📞 <a href='https://wa.me/923100086649'>+92 (310) 0086649</a></p>
