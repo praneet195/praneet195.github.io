@@ -1,29 +1,36 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Machine Learning Engineer @ <a href='https://arbisoft.com'>Arbisoft</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: hasnain.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>📞 <a href='https://wa.me/923100086649'>+92 (310) 0086649</a></p>
-    <p>📧 hasnain.ai3142@gmail.com</p>
+    <p>📞 <a href="https://wa.me/923100086649" style="color: inherit; text-decoration: underline; underline">+92 (310) 0086649</a> </p>
+    <p>📧 <a href="mailto:hasnain.ai3142@gmail.com" style="color: inherit; text-decoration: underline; underline">hasnain.ai3142@gmail.com</a> </p>
+    <p>🌐 <a href="https://www.linkedin.com/in/hasnain3142/" style="color: inherit; text-decoration: underline; underline">linkedin.com/in/hasnain3142</a> </p>
     <p>🏠 Karachi, Pakistan 75460</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-I am Hasnain Ali Arain, a highly motivated Computer and Information Systems graduate (with Distinction) from NED University of Engineering and Technology (ranked 6th out of 152 graduates). My academic journey has fostered a deep passion for Artificial Intelligence (AI), particularly in areas like Generative AI, Large Language Models (LLMs), and Multimodal Perception.
+Hi, I'm Hasnain.
 
-With a strong foundation in machine learning fundamentals and a proven ability to translate theory into practical solutions, I have gained valuable experience through internships at Arbisoft (Pakistan) and Crosswing Inc. (Canada). At Arbisoft, I played a key role in developing ArbiChat, a company chatbot, and contributed to the Schoolgram project, implementing text comprehension and handwriting recognition models. At Crosswing, I leveraged computer vision techniques for object detection and model integration. My internship at Data Science Dojo (US) further solidified my expertise in NLP, where I used LLMs to extract insights from textual data.
+I graduated from NEDUET Karachi, PK with Bachelors in Computer and Information Systems Engineering.
 
-Beyond my professional experience, I am actively engaged in research. I am currently collaborating with Carnegie Mellon University's Robotics Institute on integrating multimodal perception into LLMs.  My research interests also extend to Urdu character recognition (NEDUET) and image resolution enhancement using Generative Adversarial Networks (GANs).
+I am currently working as a Machine Learning Engineer where I am involved in areas like Generative AI, Large Language Models (LLMs) and Diffusion Models.
 
-My leadership and communication skills were honed through various activities. I served as a Section Leader at Stanford University's Code in Place program, guiding students in Python programming. Additionally, I actively volunteered as a trainer for underprivileged students at ICodeGuru and participated in coding competitions, achieving top rankings.
+I am interested in various topics related to AI/ML which includes:
+<ol>
+<li> Computer Vision </li>
+<li> Natural Language Processing </li>
+</ol>
 
-I am eager to pursue a fully funded PhD program in the US to further my research endeavors and contribute to the advancement of AI. I am particularly interested in programs that explore the intersection of computer vision, natural language processing, and multimodal learning.
+Beyond my professional experience, I am working on an independent research project on large language models exploring their challenges. Furthermore, I actively volunteer as a trainer on ICodeGuru for teaching underprivileged students in Pakistan in the local language, Urdu.
+
+I am currently seeking a PhD program in the US to advance my research and contribute to the fields of computer vision, natural language processing, and multimodal learning.

@@ -643,7 +643,67 @@ footer.sticky-bottom {
     text-align: right;
   }
 }
+// Projects
 
+.project0 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.image-container0 {
+  flex: 0 0 150px;
+  margin-right: 20px;
+}
+
+.pdficon {
+  width: 32px; /* Set the width of the icon */
+  height: 32px; /* Set the height of the icon */
+  display: inline-block; /* Ensures it behaves like an inline element */
+}
+
+.project-details0 {
+  flex: 1;
+}
+
+.project-details0 h3 {
+  margin: 0;
+  font-size: 1.5em;
+}
+
+.project-details0 p {
+  margin: 5px 0;
+}
+
+button {
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1em;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.timeline {
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-size: 0.8em;
+}
 // Publications
 
 .publications {
