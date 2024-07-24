@@ -19,18 +19,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Hasnain.
+<p>Hi, I’m <b>Hasnain</b> 👋</p>
 
-I graduated from NEDUET Karachi, PK with Bachelors in Computer and Information Systems Engineering.
+<p>I hold a <b>Bachelor's degree in Computer and Information Systems Engineering</b> from <b>NED University of Engineering and Technology (NEDUET)</b> in Karachi, Pakistan.</p>
 
-I am currently working as a Machine Learning Engineer where I am involved in areas like Generative AI, Large Language Models (LLMs) and Diffusion Models.
+<p>Currently, I am employed as a <b>Machine Learning Engineer</b>, specializing in areas such as <b><i>Generative AI</i></b>, <b><i>Large Language Models (LLMs)</i></b>, and <b><i>Diffusion Models</i></b>.</p>
 
-I am interested in various topics related to AI/ML which includes:
-<ol>
-<li> Computer Vision </li>
-<li> Natural Language Processing </li>
-</ol>
+<p>My research interests include a variety of topics within the realm of AI and Machine Learning, particularly:</p>
+<ul>
+    <li>Computer Vision</li>
+    <li>Natural Language Processing</li>
+</ul>
 
-Beyond my professional experience, I am working on an independent research project on large language models exploring their challenges. Furthermore, I actively volunteer as a trainer on ICodeGuru for teaching underprivileged students in Pakistan in the local language, Urdu.
+<p>In addition to my professional work, I am engaged in independent research focused on large language models, where I am exploring various challenges and opportunities. I am also committed to community service and actively volunteer as a trainer at <b>ICodeGuru</b>, where I teach underprivileged students in Pakistan in the local language, <i>Urdu</i>.</p>
 
-I am currently seeking a PhD program in the US to advance my research and contribute to the fields of computer vision, natural language processing, and multimodal learning.
+<p>I am now seeking to further my academic career by pursuing a <b>PhD program in the United States</b>. My goal is to advance my research and contribute to the fields of <b><i>computer vision</i></b>, <b><i>natural language processing</i></b>, and <b><i>multimodal learning</i></b>.</p>
