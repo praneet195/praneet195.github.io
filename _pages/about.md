@@ -33,4 +33,4 @@ social: false # includes social icons at the bottom of the page
 
 <p>In addition to my professional work, I am engaged in independent research focused on large language models, where I am exploring various challenges and opportunities. I am also committed to community service and actively volunteer as a trainer at <b>ICodeGuru</b>, where I teach underprivileged students in Pakistan in the local language, <i>Urdu</i>.</p>
 
-<p>I am now seeking to further my academic career by pursuing a <b>PhD program in the United States</b>. My goal is to advance my research and contribute to the fields of <b><i>computer vision</i></b>, <b><i>natural language processing</i></b>, and <b><i>multimodal learning</i></b>.</p>
+<p>I am now seeking to further my academic career by pursuing a <b>Graduate program in the United States</b>. My goal is to advance my research and contribute to the fields of <b><i>computer vision</i></b>, <b><i>natural language processing</i></b>, and <b><i>multimodal learning</i></b>.</p>
