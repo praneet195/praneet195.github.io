@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>📞 <a href="https://wa.me/923100086649" style="color: inherit; text-decoration: underline; underline">+92 (310) 0086649</a> </p>
     <p>📧 <a href="mailto:hasnain.ai3142@gmail.com" style="color: inherit; text-decoration: underline; underline">hasnain.ai3142@gmail.com</a> </p>
-    <p>🌐 <a href="https://www.linkedin.com/in/hasnain3142/" style="color: inherit; text-decoration: underline; underline">linkedin.com/in/hasnain3142</a> </p>
+    <p>🌐 <a href="https://www.linkedin.com/in/hasnain3142/" style="color: inherit; text-decoration: underline; underline">LinkedIn: hasnain3142/</a> </p>
     <p>🏠 Karachi, Pakistan 75460</p>
 
 news: true # includes a list of news items
@@ -19,18 +19,28 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<p>Hi, I’m <b>Hasnain</b> 👋</p>
+<p style="font-size: 28px; font-weight: bold;">Hello, I'm <b>Hasnain</b> 👋</p>
 
-<p>I hold a <b>Bachelor's degree in Computer and Information Systems Engineering</b> from <b>NED University of Engineering and Technology (NEDUET)</b> in Karachi, Pakistan.</p>
+<p style="font-size: 18px; line-height: 1.6;">I hold a Bachelor's degree in Computer and Information Systems Engineering from NED University. Currently, I work as a Machine Learning Engineer, specializing in Generative AI and Large Language Models (LLMs).</p>
 
-<p>Currently, I am employed as a <b>Machine Learning Engineer</b>, specializing in areas such as <b><i>Generative AI</i></b>, <b><i>Large Language Models (LLMs)</i></b>, and <b><i>Diffusion Models</i></b>.</p>
-
-<p>My research interests include a variety of topics within the realm of AI and Machine Learning, particularly:</p>
-<ul>
+<p style="font-size: 24px; font-weight: bold;">Research Interests</p>
+<ul style="line-height: 1.6; font-size: 18px;">
     <li>Computer Vision</li>
-    <li>Natural Language Processing</li>
+    <li>Natural Language Processing (NLP)</li>
+    <li>Multimodal Learning</li>
+    <li>Generative AI</li>
+    <li>Large Language Models (LLMs)</li>
 </ul>
 
-<p>In addition to my professional work, I am engaged in independent research focused on large language models, where I am exploring various challenges and opportunities. I am also committed to community service and actively volunteer as a trainer at <b>ICodeGuru</b>, where I teach underprivileged students in Pakistan in the local language, <i>Urdu</i>.</p>
+<p style="font-size: 24px; font-weight: bold;">Research and Professional Involvements</p>
+<p style="font-size: 18px; line-height: 1.6;">
+    Outside of my job as a Machine Learning Engineer, I love diving into international hackathons and tech competitions where I get to work with talented people from around the world on exciting problems. I also spend time on personal projects that let me experiment with new technologies and collaborate with others.
+</p>
+<p style="font-size: 18px; line-height: 1.6;">
+    I’m really passionate about giving back through teaching, so I volunteer with non-profits to help underprivileged students in Pakistan learn tech skills in their local language, Urdu. To keep learning and stay inspired, I regularly take online courses and tackle new, challenging projects.
+</p>
 
-<p>I am now seeking to further my academic career by pursuing a <b>Graduate program in the United States</b>. My goal is to advance my research and contribute to the fields of <b><i>computer vision</i></b>, <b><i>natural language processing</i></b>, and <b><i>multimodal learning</i></b>.</p>
+<p style="font-size: 24px; font-weight: bold;">Future Aspirations</p>
+<p style="font-size: 18px; line-height: 1.6;">
+    I am excited to advance my academic journey through a graduate program in the United States, focusing on artificial intelligence. My aim is to contribute to transformative research and influence the future of technology.
+</p>
