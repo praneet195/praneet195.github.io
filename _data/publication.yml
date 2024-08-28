@@ -1,7 +1,17 @@
+- name: Image Quality Estimation for End-to-end Face Analytics Systems
+  url:
+  used:
+    - thing: IEEE 26th International Workshop on Multimedia Signal Processing (MMSP), 2024
+
+- name: Task-aware Image Quality Estimators for Face Detection
+  url:
+  used:
+    - thing: EURASIP, "Video Coding for Machines", Image and Video Processing Journal, 2024
+
 - name: NeRVA, Joint Implicit Neural Representations for Videos and Audios
   url:
   used:
-    - thing: IEEE International Conference on Multimedia and Expo, 2024 (In Progress)
+    - thing: IEEE International Conference on Multimedia and Expo (Oral), 2024
 
 - name: Gallery-Query Protocol for Evaluating Face Image Quality Metrics
   url:
