@@ -26,10 +26,9 @@ social: false # includes social icons at the bottom of the page
 <p style="font-size: 24px; font-weight: bold;">Research Interests</p>
 <ul style="line-height: 1.6; font-size: 18px;">
     <li>Computer Vision</li>
-    <li>Natural Language Processing (NLP)</li>
-    <li>Multimodal Learning</li>
+    <li>Robotics</li>
+    <li>Multimodal AI</li>
     <li>Generative AI</li>
-    <li>Large Language Models (LLMs)</li>
 </ul>
 
 <p style="font-size: 24px; font-weight: bold;">Research and Professional Involvements</p>

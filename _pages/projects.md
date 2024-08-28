@@ -5,6 +5,21 @@ title: Projects
 nav: true
 nav_order: 3
 ---
+
+<div class="project0">
+    <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/robotics_arm.jpg" style="width: 300px; height: 300px;" %}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <h3>IntelliLift RoboNavigator</h3>
+        <span class="timeline">Sep 2024 - Present</span>
+        </div>
+        <p>A robotics project that integrates a robotic arm mounted on a mobile platform to autonomously detect, navigate towards, and manipulate(lift) objects based on natural language commands using 6D pose estimation of the object. The project will utilize ROS, Gazebo, ArUco Markers, 6D pose estimator and LLMs.</p>
+        <a href="https://github.com/hasnain3142/IntelliLift-RoboNavigator/"><button>View Project</button></a>
+    </div>
+</div>
+
 <div class="project0">
     <div class="image-container0">
         {% include figure.liquid loading="eager" path="assets/img/blue zone.jpg" style="width: 300px; height: 300px;"  %}
@@ -17,6 +32,35 @@ nav_order: 3
         <p>This project is part of Omdena San Jose, USA Chapter Challenge. It examines how healthcare, environmental conditions, lifestyle, socioeconomic status, and demographics impact life expectancy. It explores disparities between rural and urban areas and investigates the reasons for varying life expectancies across U.S. counties.</p>
         <a href="https://www.omdena.com/chapter-challenges/the-blue-zone-project-identifying-counties-with-the-highest-life-expectancies-in-us"><button>Project Webpage</button></a>
         <a href="https://dagshub.com/Omdena/SanJoseUSAChapter_BlueZoneProject"><button>View Project</button></a>
+    </div>
+</div>
+
+<div class="project0">
+    <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/smart_scan.jpg" style="width: 300px; height: 300px;" %}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <h3>SmartScan Billing Assistant</h3>
+        <span class="timeline">May 2024 - Jul 2024</span>
+        </div>
+        <p>The SmartScan Billing Assistant is a computer vision-based project designed to automate the process of calculating the total bill by detecting products and adding their prices using a camera, similar to a cashier. This project uses the YOLOv8 model for object detection and tracking. This is the MVP of the main project I did for a supermarket where I implemented the SmartScan billing system on more than 1200 products.</p>
+        <a href="https://github.com/hasnain3142/SmartScan-Billing-Assistant"><button>View Project</button></a>
+    </div>
+</div>
+
+<div class="project0">
+    <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/asl.png" style="width: 300px; height: 300px;"  %}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <h3>American Sign-Language Detection With YOLO</h3>
+        <span class="timeline">Jun 2024 - Aug 2024</span>
+        </div>
+        <p> This project demonstrates the use of YOLOv8 for detecting American Sign Language (ASL) gestures.</p>
+        <a href="https://github.com/hasnain3142/American-Sign-Language-Detection"><button>View Project</button></a>
+        <a href="https://github.com/user-attachments/assets/6564970b-b950-4be9-8606-b2a5b63e0d39"><button>View Demo</button></a>
     </div>
 </div>
 

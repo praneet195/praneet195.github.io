@@ -5,6 +5,25 @@ title: Competitions
 nav: true
 nav_order: 5
 ---
+
+<div class="project0">
+    <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/next_comp.jpg"%}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <h3>Next2 Edge Runners Hackathon</h3>
+        <span class="timeline">23 Aug 2024 - 25 Aug 2024</span>
+        </div>
+        <p><b>Organizer: </b><a href="https://lablab.ai/event/next2-edge-runners">Lablab.ai</a></p>
+        <p><b>Project:</b> Caduceus</p>
+        <p><b>Description:</b> Developed Caduceus, an AI-powered health assistant that enhances decision-making by integrating personal health records and real-time biometrics. Leveraging Generative AI, LLMs (LangChain, OpenAI GPT-4), a SQL database, Django backend, React frontend, and public health data, Caduceus provides personalized, informed advice for better individual and population health outcomes.</p>
+        <a href="https://github.com/AdvancedHueristics/MedAI-Assistant"><button>View Project</button></a>
+        <a href="https://lablab.ai/event/next2-edge-runners/caduceus/caduceus-your-tool-for-your-health"><button>View Submission</button></a>
+    </div>
+</div>
+
+
 <div class="project0">
     <div class="image-container0">
         {% include figure.liquid loading="eager" path="assets/img/tidbhackathon-2024.png"%}
