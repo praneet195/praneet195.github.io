@@ -28,7 +28,7 @@ nav_order: 4
     <div class="project-details0">
         <div class="heading">
         <h3><a href="https://www.linkedin.com/company/pakangels/">Pak Angels</a>: Generative AI Training</h3>
-        <span class="timeline">July 2024 - Present</span>
+        <span class="timeline">July 2024 - October 2024</span>
         </div>
         <p><strong>Trainer & Moderator</strong></p>
         <p>I moderated an 8-week online Generative AI course, offering real-time support and answering questions. I led interactive discussions and guided practical applications of the technology. Additionally, I helped deliver content and fostered a supportive learning environment for professionals.</p>
@@ -44,7 +44,7 @@ nav_order: 4
     <div class="project-details0">
         <div class="heading">
         <h3><a href="https://icode.guru/">ICodeGuru</a></h3>
-        <span class="timeline">April 2024 - Present</span>
+        <span class="timeline">July 2023 - Present</span>
         </div>
         <p><strong>Trainer & Moderator</strong></p>
         <p>At ICodeGuru, we teach, train, mentor and guide students from underprivileged areas of Pakistan to enhance their professional skills. I teach coding to these students and help them solve Leetcode problems.</p>

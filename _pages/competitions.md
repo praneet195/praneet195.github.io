@@ -8,6 +8,20 @@ nav_order: 5
 
 <div class="project0">
     <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/meta.jpg"%}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <h3>Meta Hacker Cup - 2024</h3>
+        <span class="timeline">Sep 2024 - Dec 2024</span>
+        </div>
+        <p><b>Organizer: </b><a href="https://www.facebook.com/codingcompetitions/hacker-cup">Meta</a></p>
+        <p><b>Description:</b> Hacker Cup is Meta's annual open programming competition. Open to participants around the world, we invite you to apply problem-solving and algorithmic coding skills to advance through each year’s online rounds, win prizes, and have a chance to make it to the global finals and win the grand prize.</p>
+    </div>
+</div>
+
+<div class="project0">
+    <div class="image-container0">
         {% include figure.liquid loading="eager" path="assets/img/next_comp.jpg"%}
     </div>
     <div class="project-details0">

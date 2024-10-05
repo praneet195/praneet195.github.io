@@ -15,8 +15,12 @@ cv_pdf: assets/pdf/CV_HasnainAliArain.pdf
         {% include figure.liquid loading="eager" path="assets/img/pdf.jpg"%}
     </div>
 Download PDF</a>
-</p>
-<p><a href="https://docs.google.com/document/d/165U-OTKr6CxSNsH04CQIspEjB0NKxWa5FJTRhvvXpew/preview" target="_blank" rel="noopener noreferrer"> View PDF </a> </p>
+&emsp;
+&emsp;
+&emsp;
+<a href="https://docs.google.com/document/d/165U-OTKr6CxSNsH04CQIspEjB0NKxWa5FJTRhvvXpew/preview" target="_blank" rel="noopener noreferrer"> <div class="pdficon">
+        {% include figure.liquid loading="eager" path="assets/img/view.png"%}
+    </div> View PDF </a> </p>
 </center>
 
 <center>

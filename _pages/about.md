@@ -26,9 +26,10 @@ social: false # includes social icons at the bottom of the page
 <p style="font-size: 24px; font-weight: bold;">Research Interests</p>
 <ul style="line-height: 1.6; font-size: 18px;">
     <li>Computer Vision</li>
-    <li>Robotics</li>
     <li>Multimodal AI</li>
-    <li>Generative AI</li>
+    <li>Natural Language Processing</li>
+    <li>Robotics</li>
+
 </ul>
 
 <p style="font-size: 24px; font-weight: bold;">Research and Professional Involvements</p>
