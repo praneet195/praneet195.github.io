@@ -44,3 +44,11 @@ social: false # includes social icons at the bottom of the page
 <p style="font-size: 18px; line-height: 1.6;">
     I am excited to advance my academic journey through a graduate program in the United States, focusing on artificial intelligence. My aim is to contribute to transformative research and influence the future of technology.
 </p>
+
+<!-- Hidden ClustrMaps Tracker -->
+<div style="display: none;">
+    <a href="https://clustrmaps.com/site/1c26o" title="Visit tracker">
+        <img src="//www.clustrmaps.com/map_v2.png?d=3Rb5bVTw6aBTKI5pAmtwvRaN0XG-R6NP4R82SEqcWt4&cl=ffffff" 
+             alt="Visitor Map" />
+    </a>
+</div>
