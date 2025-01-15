@@ -46,7 +46,7 @@ Hi 👋, I am a researcher passionate about redefining possibilities in the imag
 <p style="font-size: 24px; font-weight: bold;">Research and Practical Involvements</p>
 <p style="font-size: 18px; line-height: 1.6;">
   
-I am driven by the challenge of advancing practical video analytics systems and compression algorithms for critical applications like autonomous driving and security. My research at Purdue focuses on improving end-to-end computer vision systems through:
+During my Ph.D, I was driven by the challenge of advancing practical video analytics systems and compression algorithms for critical applications like autonomous driving and security. My research at Purdue focuses on improving end-to-end computer vision systems through:
 
 <ul>
  <li> Mitigating the impact of compression on deep learning models used for computer vision tasks  </li> 
