@@ -73,7 +73,7 @@ nav_order: 2
             <li>Patent submitted and research published in IEEE ICME/li>
         </ul>
     </div>
-
+</div>
 
 
 <div class="project0">
