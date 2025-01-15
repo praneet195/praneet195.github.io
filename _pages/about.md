@@ -30,7 +30,8 @@ social: false # includes social icons at the bottom of the page
 <p style="font-size: 24px; line-height: 1.6;"> Hi 👋</p> 
 
 <p style="font-size: 18px; line-height: 1.6;">
-I'm a 5th year Ph.D candidate at Purdue University advised by Dr. Amy R. Reibman. I love working on task-aware video compression, image quality assessment, implicit neural representations, and 3D gaussian splatting.</p>
+I'm a 5th year Ph.D candidate at Purdue University advised by Dr. Amy R. Reibman. I love working on task-aware video compression, image quality assessment, implicit neural representations, and 3D gaussian splatting.
+</p>
 
 <p style="font-size: 24px; font-weight: bold;">Research Interests</p>
 <ul style="line-height: 1.6; font-size: 18px;">
@@ -41,6 +42,7 @@ I'm a 5th year Ph.D candidate at Purdue University advised by Dr. Amy R. Reibman
    <li>Gaussian Splatting</li>
  
 </ul>
+</p>
 
 <p style="font-size: 24px; font-weight: bold;">Research and Practical Interests</p>
 <p style="font-size: 18px; line-height: 1.6;">
