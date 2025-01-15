@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate @ Purdue University
+subtitle: Ph.D. Candidate @ Purdue University, Advised by Dr. Amy R. Reibman
 
 profile:
   align: right
@@ -29,7 +29,7 @@ social: false # includes social icons at the bottom of the page
 <p style="font-size: 24px; font-weight: bold;">About Me</p>
 
 <p style="font-size: 18px; line-height: 1.6;">
-Hi 👋, I'm a 5th year Ph.D candidate at Purdue University advised by Dr. Amy R. Reibman. I love working on task-aware video compression, image quality assessment, implicit neural representations, and 3D gaussian splatting.
+Hi 👋, I am a researcher passionate about redefining possibilities in task-aware video compression, image quality assessment, implicit neural representations, and 3D Gaussian splatting.
 </p>
 
 <p style="font-size: 24px; font-weight: bold;">Research Interests</p>
