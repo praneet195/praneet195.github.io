@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate @ <a Purdue University, West Lafayette </a>
+subtitle: Ph.D. Candidate @ Purdue University
 
 profile:
   align: right
@@ -28,7 +28,7 @@ social: false # includes social icons at the bottom of the page
 
 <p style="font-size: 28px; font-weight: bold;">Hi :), I'm <b>Praneet</b> 👋</p>
 
-<p style="font-size: 18px; line-height: 1.6;">A 5th year Ph.D candidate at Purdue University advised by Dr. Amy R. Reibman. My research focuses on task-aware video compression and analytics, image quality assessment, implicit neural representations, and 3D gaussian splatting.</p>
+<p style="font-size: 18px; line-height: 1.6;">A 5th year Ph.D candidate at Purdue University advised by Dr. Amy R. Reibman. I love working on task-aware video compression and analytics, image quality assessment, implicit neural representations, and 3D gaussian splatting.</p>
 
 <p style="font-size: 24px; font-weight: bold;">Research Interests</p>
 <ul style="line-height: 1.6; font-size: 18px;">
@@ -40,12 +40,25 @@ social: false # includes social icons at the bottom of the page
  
 </ul>
 
-<p style="font-size: 24px; font-weight: bold;">Research and Professional Involvements</p>
+<p style="font-size: 24px; font-weight: bold;">Research and Practical Involvements</p>
 <p style="font-size: 18px; line-height: 1.6;">
-    Outside of my job as a Machine Learning Engineer, I love diving into international hackathons and tech competitions where I get to work with talented people from around the world on exciting problems. I also spend time on personal projects that let me experiment with new technologies and collaborate with others.
+  
+I am driven by the challenge of advancing practical video analytics systems and compression algorithms for critical applications like autonomous driving and security. My research at Purdue University, under Dr. Amy Reibman has focused on improving end-to-end computer vision systems through:
+
+<ul>
+ <li> Mitigating the impact of compression on deep learning models used for computer vision tasks  </li> 
+  <li>  Developing balanced, interpretable evaluation methodologies for these models, and </li>
+  <li>
+    Designing algorithms to estimate video quality for peak system performance. </li>
+</ul>
 </p>
+
 <p style="font-size: 18px; line-height: 1.6;">
-    I’m really passionate about giving back through teaching, so I volunteer with non-profits to help underprivileged students in Pakistan learn tech skills in their local language, Urdu. To keep learning and stay inspired, I regularly take online courses and tackle new, challenging projects.
+I've also been fortunate enough to intern at Dolby and Apple. During my internships, I explored and published research on cutting-edge topics such as joint implicit neural field representations (audio + video), scalable video coding algorithms, and end-to-end learning-based compression of 3D Gaussian splats.
+</p>
+
+<p style="font-size: 18px; line-height: 1.6;">
+With my PhD research skillset and internship experience, I strive to bridge academic excellence with practical expertise, delivering innovative and impactful solutions to complex challenges.
 </p>
 
 <p style="font-size: 24px; font-weight: bold;">Future Aspirations</p>
