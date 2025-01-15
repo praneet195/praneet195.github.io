@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /experiences/
-title: Experiences
+title: Work Experience
 nav: true
 nav_order: 2
 ---
