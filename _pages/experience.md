@@ -23,7 +23,7 @@ nav_order: 2
             <li>Understanding, evaluating, and mitigating the impact of video compression of computer vision systems</li>
             <li>Developing task-aware video compression algorithms that improve system performance on compressed video data</li>
             <li>Designed image quality estimators and evaluation protocols to correlate the performance of deep learning models to image quality</li>
-            <li>Research published in IEEE ICIP, IEEE MMSP, IEEE MIPR, and Electronic Imaging/li>
+            <li>Research published in IEEE ICIP, IEEE MMSP, IEEE MIPR, and Electronic Imaging </li>
         </ul>
     </div>
 </div>
@@ -45,8 +45,8 @@ nav_order: 2
             <li>Advised by Dr. Peng Yin and Dr. Tong Shao</li>
             <li>Designed an end-to-end neural network based compression algorithm for 3D Gaussian Splats</li>
             <li>Utilized traditional video codecs to exploit inter-frame redundancies for 3DGS compression</li>
-            <li>Worked on post-training model pruning and quantization methods, shifting focus from modality-specific compression./li>
-            <li>Research submitted to IEEE ICIP/li>
+            <li>Worked on post-training model pruning and quantization methods, shifting focus from modality-specific compression</li>
+            <li>Research submitted to IEEE ICIP</li>
         </ul>
     </div>
 </div>
@@ -69,8 +69,8 @@ nav_order: 2
             <li>Advised by Dr. Guan-Ming Su and Dr. Anustup Choudhury</li>
             <li>Mastered design principles of Neural Field architectures for images, video, and audio signals, encompassing Fourier embeddings, Sine/Swish activations, and Convolution-based structures (NeRV, NeRF)</li>
             <li>Designed a novel implicit Neural Field architectures for joint audio-video representation using time-stamp coordinates (NeRVA)</li>
-            <li>Worked on post-training model pruning and quantization methods, shifting focus from modality-specific compression./li>
-            <li>Patent submitted and research published in IEEE ICME/li>
+            <li>Worked on post-training model pruning and quantization methods, shifting focus from modality-specific compression</li>
+            <li>Patent submitted and research published in IEEE ICME</li>
         </ul>
     </div>
 </div>
