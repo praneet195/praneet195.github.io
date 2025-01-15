@@ -2,7 +2,7 @@
 layout: page
 permalink: /competitions/
 title: Competitions
-nav: true
+nav: false
 nav_order: 5
 ---
 
