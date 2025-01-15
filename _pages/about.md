@@ -63,5 +63,5 @@ With my PhD research skillset and internship experience, I strive to bridge acad
 
 <p style="font-size: 24px; font-weight: bold;">Future Aspirations</p>
 <p style="font-size: 18px; line-height: 1.6;">
-    I'm excited to apply my academic skillset to a research-oreinted role in the industry, focusing on image/video analytics and compression. My aim is to contribute to transformative research and influence the future of image and video technology.
+    I'm excited to graduate in May 2025 and apply my academic skillset to a research-oreinted role in the industry, focusing on image/video analytics and compression. My aim is to contribute to transformative research and influence the future of image and video technology.
 </p>
