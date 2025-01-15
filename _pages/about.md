@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate @ Purdue University <br>
-Advised by Dr. Amy R. Reibman
+subtitle: Ph.D. Candidate @ Purdue University, Advised by Dr. Amy R. Reibman
 
 profile:
   align: right
