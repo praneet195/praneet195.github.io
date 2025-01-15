@@ -54,7 +54,7 @@ I am driven by the challenge of advancing practical video analytics systems and 
   <li>
     Designing algorithms to estimate video quality for peak system performance. </li>
 </ul>
-</p>
+
 
 <p style="font-size: 18px; line-height: 1.6;">
 I've also been fortunate enough to intern at Dolby and Apple. During my internships, I explored and published research on cutting-edge topics such as joint implicit neural field representations (audio + video), scalable video coding algorithms, and end-to-end learning-based compression of 3D Gaussian splats.
