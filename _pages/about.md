@@ -26,8 +26,8 @@ social: false # includes social icons at the bottom of the page
     </a>
 </div>
 
-
-<p style="font-size: 24px; line-height: 1.6;"> Hi 👋</p> 
+<p style="font-size: 24px; font-weight: bold;">About Me</p>
+<p style="font-size: 18px; line-height: 1.6;"> Hi 👋</p> 
 
 <p style="font-size: 18px; line-height: 1.6;">
 I'm a 5th year Ph.D candidate at Purdue University advised by Dr. Amy R. Reibman. I love working on task-aware video compression, image quality assessment, implicit neural representations, and 3D gaussian splatting.
