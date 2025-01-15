@@ -46,7 +46,7 @@ Hi 👋, I am a researcher passionate about redefining possibilities in the imag
 <p style="font-size: 24px; font-weight: bold;">Research and Practical Involvements</p>
 <p style="font-size: 18px; line-height: 1.6;">
   
-During my Ph.D, I was driven by the challenge of advancing practical video analytics systems and compression algorithms for critical applications like autonomous driving and security. My research at Purdue (funded by Ford Motor Corp.) focuses on improving end-to-end computer vision systems through:
+During my Ph.D, I was driven by the challenge of advancing practical video analytics systems and compression algorithms for critical applications like autonomous driving and security. My research at Purdue <b>(funded by Ford Motor Corp.)</b> focuses on improving end-to-end computer vision systems through:
 
 <ul>
  <li> Mitigating the impact of compression on deep learning models used for computer vision tasks  </li> 
@@ -57,7 +57,7 @@ During my Ph.D, I was driven by the challenge of advancing practical video analy
 
 
 <p style="font-size: 18px; line-height: 1.6;">
-I've also been fortunate enough to intern at Dolby and Apple. During my internships, I explored and published research on cutting-edge topics such as joint implicit neural field representations (audio + video), scalable video coding algorithms, and end-to-end learning-based compression of 3D Gaussian splats.
+I've also been fortunate enough to intern at <b>Dolby and Apple</b>. During my internships, I explored and published research on cutting-edge topics such as joint implicit neural field representations (audio + video), scalable video coding algorithms, and end-to-end learning-based compression of 3D Gaussian splats.
 </p>
 
 <p style="font-size: 18px; line-height: 1.6;">
@@ -66,5 +66,5 @@ With my PhD research skillset and internship experience, I strive to bridge acad
 
 <p style="font-size: 24px; font-weight: bold;">Future Aspirations</p>
 <p style="font-size: 18px; line-height: 1.6;">
-    I'm excited to graduate in May 2025 and apply my academic skillset to a research-oreinted role in the industry, focusing on image/video analytics and compression. My aim is to contribute to transformative research and influence the future of image and video technology.
+    I'm excited to graduate in <b>May 2025</b> and apply my academic skillset to a research-oreinted role in the industry, focusing on image/video analytics and compression. My aim is to contribute to transformative research and influence the future of image and video technology.
 </p>
