@@ -29,7 +29,7 @@ social: false # includes social icons at the bottom of the page
 <p style="font-size: 24px; font-weight: bold;">About Me</p>
 
 <p style="font-size: 18px; line-height: 1.6;">
-Hi 👋, I am a researcher passionate about redefining possibilities in task-aware video compression, image quality assessment, implicit neural representations, and 3D Gaussian splatting.
+Hi 👋, I am a researcher passionate about redefining possibilities in the image and video domain.
 </p>
 
 <p style="font-size: 24px; font-weight: bold;">Research Interests</p>
