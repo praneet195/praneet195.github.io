@@ -31,7 +31,7 @@ nav_order: 2
 
 <div class="project0">
     <div class="image-container0">
-        {% include figure.liquid loading="eager" path="assets/img/dolby.png"%}
+        {% include figure.liquid loading="eager" path="assets/img/dolby_new.jpg"%}
     </div>
     <div class="project-details0">
         <div class="heading">
@@ -55,7 +55,7 @@ nav_order: 2
 
 <div class="project0">
     <div class="image-container0">
-        {% include figure.liquid loading="eager" path="assets/img/dolby.png"%}
+        {% include figure.liquid loading="eager" path="assets/img/dolby_new.jpg"%}
     </div>
     <div class="project-details0">
         <div class="heading">
@@ -79,7 +79,7 @@ nav_order: 2
 
 <div class="project0">
     <div class="image-container0">
-        {% include figure.liquid loading="eager" path="assets/img/apple.png"%}
+        {% include figure.liquid loading="eager" path="assets/img/apple_new.png"%}
     </div>
     <div class="project-details0">
         <div class="heading">
@@ -102,7 +102,7 @@ nav_order: 2
 
 <div class="project0">
     <div class="image-container0">
-        {% include figure.liquid loading="eager" path="assets/img/iisc.png"%}
+        {% include figure.liquid loading="eager" path="assets/img/iisc_new.png"%}
     </div>
     <div class="project-details0">
         <div class="heading">
