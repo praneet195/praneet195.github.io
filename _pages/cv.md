@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 6
-cv_pdf: assets/pdf/CV_HasnainAliArain.pdf
+cv_pdf: assets/pdf/Praneet_CV.pdf
 ---
 <div>
 
