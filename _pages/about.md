@@ -32,7 +32,7 @@ social: false # includes social icons at the bottom of the page
 Hi 👋, I am a researcher passionate about redefining possibilities in the image and video domain. </p>
 
 <p style="font-size: 18px; line-height: 1.6;">
-I am actively seeking research opportunities in the industry starting in May 2025 to contribute to impactful innovations and help shape the future of image and video technology.
+I am actively seeking research opportunities in the industry starting May 2025 to contribute to impactful innovations and help shape the future of image and video technology.
 </p>
 
 
