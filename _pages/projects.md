@@ -86,7 +86,7 @@ nav_order: 3
     <div class="project-details0">
         <div class="heading">
         <h3>Dataset Curation and Systematic Evaluation of End-to-end Face Analytics</h3>
-        <span class="timeline">May 2021 - Aug 2021</span>
+        <span class="timeline">Jan 2020 - May 2021</span>
         </div>
         <p> I worked on this research topic during the early years of my Ph.D while being funded by Ford Motor Corp. Here, I designed an end-to-end face analytics system deployed inside a vehicle that performs sequential face detection and recognition. Next, I utilized a data collection system to capture faces inside a vehicle across multiple camera modalities, camera angles, and lighting conditions in order to create a practical diverse dataset. From this large data, I curated a practically usable dataset for the systematic evaluation of the end-to-end face analytics system. The curated dataset was balanced, had all the properties of the original dataset, and captured the interdependence between tasks such as face detection and recognition which is typically ignored in face datasets. 
 </p>
@@ -100,7 +100,7 @@ nav_order: 3
     <div class="project-details0">
         <div class="heading">
         <h3>Background-Foreground Segmentation for Camera-Trap Images using RobustPCA</h3>
-        <span class="timeline">May 2021 - Aug 2021</span>
+        <span class="timeline">Aug 2019 - Dec 2019</span>
         </div>
         <p> This was my first research project at Purdue. In this project, I developed an unsupervised robust saliency predictor using robust PCA, which aids in differentiating between background and foreground in camera-trap images. This method eliminates the need for training, while offering performance similar to learning models such as R3-Net. The system has been employed to and track animal movements, calculate population densities, and identify habitual patterns in animal activities.
 </p>
@@ -115,7 +115,7 @@ nav_order: 3
     <div class="project-details0">
         <div class="heading">
         <h3>EdgeDetect - A lightweight framework to detect DDoS attacks on Edge nodes</h3>
-        <span class="timeline">May 2021 - Aug 2021</span>
+        <span class="timeline">July 2018 - Aug 2019</span>
         </div>
         <p> I worked on this topic under the supervision of Dr. Reshmi Mitra when I was at the Indian Institute of Scince. Here, I built a unique system to detect DDoS attacks on edge devices with the application of Recurrent Neural Networks (RNNs). The system accomplished state-of-the-art performance on the UNSW 2015 dataset with the advantage of maintaining minimal model architecture suitable for edge devices.
 </p>
@@ -129,7 +129,7 @@ nav_order: 3
     <div class="project-details0">
         <div class="heading">
         <h3>Traffic Analytics Architecture and Dataset for Indian Roads using a Monocular Surveillance Camera Network</h3>
-        <span class="timeline">May 2021 - Aug 2021</span>
+        <span class="timeline">April 2018 - Aug 2019</span>
         </div>
         <p> This project was undertaken at the Indian Institute of Scince under the supervision of Dr. Abhay Sharma. In this project, I designed a real-time front-end Web Server System that delivers live RTMP and HLS video streams with integrated features such as content sharing, discovering, routing, congestion managing, and load balancing.. I also colloborated on solutions tackling traffic analytics such as vehicle count, detection of license-plates, speed computation, and estimation of queue-length. The full framework has been successfully installed and is operational in Electronic City, Bangalore, India.
 </p>
