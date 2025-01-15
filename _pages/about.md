@@ -40,9 +40,9 @@ I am actively seeking research opportunities in the industry starting in May 202
 <ul style="line-height: 1.6; font-size: 18px;">
   <li>Task-aware Video Analytics and Compression</li> 
      <li>Image Quality Assessment</li>
-  <li>Computer Vision</li>
+  <li>End-to-end Computer Vision Systems</li>
   <li>Multimodal Neural Field Representations</li>
-   <li>Gaussian Splatting</li>
+   <li>3D/4D Gaussian Splatting</li>
  
 </ul>
 
