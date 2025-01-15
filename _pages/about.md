@@ -50,9 +50,10 @@ I am actively seeking research opportunities in the industry starting May 2025 t
 <p style="font-size: 24px; font-weight: bold;">Tech Stack</p>
 <ul style="line-height: 1.6; font-size: 18px;">
   <li>Programming Languages: Python, C++, MATLAB</li> 
-     <li>ML Libraries & Frameworks: PyTorch, Tensorflow, Keras, MXNet, NumPy, SciPy, Pandas</li>
+     <li>ML Libraries & Frameworks: PyTorch, Tensorflow, Keras, MXNet</li>
   <li>Video Coding Frameworks: AVC, HEVC, VVC </li>
    <li>Architectures: CNNs, Neural Fields, Gaussian Splats, Transformers, Autoencoders</li>
+    <li>Relevant Tools: AWS, GitHub, Docker, NginX, FFmpeg, OpencCV, NumPy, SciPy, Pandas</li>
  
 </ul>
 
