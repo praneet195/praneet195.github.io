@@ -26,17 +26,20 @@ social: false # includes social icons at the bottom of the page
     </a>
 </div>
 
-<p style="font-size: 28px; font-weight: bold;">Hello, I'm <b>Hasnain</b> 👋</p>
+<p style="font-size: 28px; font-weight: bold;">Hi :), I'm <b>Praneet</b> 👋</p>
+ , a research student interested in Video Analytics. 
+  </h2>
 
-<p style="font-size: 18px; line-height: 1.6;">I hold a Bachelor's degree in Computer and Information Systems Engineering from NED University. Currently, I work as a Machine Learning Engineer, specializing in Generative AI and Large Language Models (LLMs).</p>
+<p style="font-size: 18px; line-height: 1.6;">I'm a 5th year Ph.D candidate at Purdue University advised by Dr. Amy R. Reibman. My research focuses on task-aware video compression and analytics, image quality assessment, implicit neural representations, and 3D gaussian splatting.</p>
 
 <p style="font-size: 24px; font-weight: bold;">Research Interests</p>
 <ul style="line-height: 1.6; font-size: 18px;">
-    <li>Computer Vision</li>
-    <li>Multimodal AI</li>
-    <li>Natural Language Processing</li>
-    <li>Robotics</li>
-
+  <li>Task-aware Video Analytics and Compression</li> 
+     <li>Image Quality Assessment</li>
+  <li>Computer Vision</li>
+  <li>Multimodal Neural Field Representations</li>
+   <li>Gaussian Splatting</li>
+ 
 </ul>
 
 <p style="font-size: 24px; font-weight: bold;">Research and Professional Involvements</p>
