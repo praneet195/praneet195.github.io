@@ -20,6 +20,7 @@ nav_order: 2
         <p>Location: <strong>West Lafayette, Indiana, USA</strong></p>
         <p><b>Responsibilities:</b></p>
         <ul>
+            <li>Advised by Dr. Amy R. Reibman</li>
             <li>Understanding, evaluating, and mitigating the impact of video compression of computer vision systems</li>
             <li>Developing task-aware video compression algorithms that improve system performance on compressed video data</li>
             <li>Designed image quality estimators and evaluation protocols to correlate the performance of deep learning models to image quality</li>
