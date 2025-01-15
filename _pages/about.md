@@ -60,11 +60,12 @@ During my Ph.D, I was driven by the challenge of advancing practical video analy
 I've also been fortunate enough to intern at <b>Dolby and Apple</b>. During my internships, I explored and published research on cutting-edge topics such as joint implicit neural field representations (audio + video), scalable video coding algorithms, and end-to-end learning-based compression of 3D Gaussian splats.
 </p>
 
-<p style="font-size: 18px; line-height: 1.6;">
-With my PhD research skillset and internship experience, I strive to bridge academic excellence with practical expertise, delivering innovative and impactful solutions to complex challenges.
-</p>
+
 
 <p style="font-size: 24px; font-weight: bold;">Future Aspirations</p>
 <p style="font-size: 18px; line-height: 1.6;">
-    I'm excited to graduate in <b>May 2025</b> and apply my academic skillset to a research-oreinted role in the industry, focusing on image/video analytics and compression. My aim is to contribute to transformative research and influence the future of image and video technology.
+With my PhD research skillset and internship experience, I strive to bridge academic excellence with practical expertise, delivering innovative and impactful solutions to complex challenges.
+</p>
+<p style="font-size: 18px; line-height: 1.6;">
+    I'm looking for research-oriented opportunities in the industry starting in May 2025, focusing on image/video analytics and compression. My aim is to contribute to transformative research and influence the future of image and video technology.
 </p>
