@@ -60,13 +60,9 @@ During my Ph.D, I was driven by the challenge of advancing practical video analy
 <p style="font-size: 18px; line-height: 1.6;">
 I've also been fortunate enough to intern at <b>Dolby and Apple</b>. During my internships, I explored and published research on cutting-edge topics such as joint implicit neural field representations (audio + video), scalable video coding algorithms, and end-to-end learning-based compression of 3D gaussian splats.
 </p>
-
-
-
-<p style="font-size: 24px; font-weight: bold;">Future Aspirations</p>
 <p style="font-size: 18px; line-height: 1.6;">
 With my PhD research skillset and internship experience, I strive to bridge academic excellence with practical expertise, delivering innovative and impactful solutions to complex challenges.
 </p>
-<p style="font-size: 18px; line-height: 1.6;">
- 
-</p>
+
+
+
