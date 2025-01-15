@@ -63,7 +63,7 @@ I am actively seeking research opportunities in the industry starting May 2025 t
   <li>Purdue University</li>
   <li>Dolby</li>
   <li>Apple</li>
-  <li>Indian Institure of Science</li>
+  <li>Indian Institute of Science</li>
 </ul>
 
 
