@@ -2,20 +2,20 @@
 layout: about
 title: About
 permalink: /
-subtitle: Machine Learning Engineer @ <a href='https://arbisoft.com'>Arbisoft</a>
+subtitle: Ph.D. Candidate @ <a Purdue University, West Lafayette </a>
 
 profile:
   align: right
-  image: hasnain.png
+  image: profile_mine.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>📞 <a href="https://wa.me/923100086649" style="color: inherit; text-decoration: underline; underline">+92 (310) 0086649</a> </p>
-    <p>📧 <a href="mailto:hasnain.ai3142@gmail.com" style="color: inherit; text-decoration: underline; underline">hasnain.ai3142@gmail.com</a> </p>
-    <p>🌐 <a href="https://www.linkedin.com/in/hasnain3142/" style="color: inherit; text-decoration: underline; underline">LinkedIn: hasnain3142/</a> </p>
-    <p>🏠 Karachi, Pakistan 75460</p>
+    <p>📞 <a href="https://wa.me/7657759422" style="color: inherit; text-decoration: underline; underline">+1 (765)-774-9422</a> </p>
+    <p>📧 <a href="mailto:singh671@purdue.edu" style="color: inherit; text-decoration: underline; underline">singh671@purdue.edu</a> </p>
+    <p>🌐 <a href="https://www.linkedin.com/in/praneet195/" style="color: inherit; text-decoration: underline; underline">LinkedIn: praneet195/</a> </p>
+    <p>🏠 Sunnyvale, CA 94086</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
