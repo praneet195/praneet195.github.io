@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hasnain3142.github.io/sitemap.xml
+Sitemap: https://praneet195.github.io/sitemap.xml
