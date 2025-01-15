@@ -61,8 +61,8 @@ I am actively seeking research opportunities in the industry starting May 2025 t
 <p style="font-size: 24px; font-weight: bold;">Work Experience</p>
 <ul style="line-height: 1.6; font-size: 18px;">
   <li>Purdue University</li>
-  <li>Dolby</li>
-  <li>Apple</li>
+  <li>Dolby Laboratories</li>
+  <li>Apple Inc.</li>
   <li>Indian Institute of Science</li>
 </ul>
 
