@@ -32,6 +32,7 @@ Download CV</a>
 <br>
 <br>
 
+<div>
 <center>
 <p style="font-weight: bold; text-decoration: underline;">
 <a href="https://drive.google.com/uc?export=download&id=1evIyWyHkf68ygJow3aaESsCNUEeWbg37" rel="noopener noreferrer">
