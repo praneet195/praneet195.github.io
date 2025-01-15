@@ -20,53 +20,59 @@ nav_order: 2
         <p>Location: <strong>West Lafayette, Indiana, USA</strong></p>
         <p><b>Responsibilities:</b></p>
         <ul>
-            <li>Understanding, evaluating, and mitigating the impact of video compression of computer vision systems.</li>
+            <li>Understanding, evaluating, and mitigating the impact of video compression of computer vision systems</li>
             <li>Developing task-aware video compression algorithms that improve system performance on compressed video data</li>
             <li>Designed image quality estimators and evaluation protocols to correlate the performance of deep learning models to image quality</li>
+            <li>Research published in IEEE ICIP, IEEE MMSP, IEEE MIPR, and Electronic Imaging/li>
         </ul>
     </div>
 </div>
 
 <div class="project0">
     <div class="image-container0">
-        {% include figure.liquid loading="eager" path="assets/img/rehani.jpg"%}
+        {% include figure.liquid loading="eager" path="assets/img/dolby.png"%}
     </div>
     <div class="project-details0">
         <div class="heading">
-        <a href="https://www.rehanisoko.com/"><h3>Rehani Soko</h3></a>
-        <span class="timeline">Jan 2023 - Aug 2023</span>
+        <a href="https://www.dolby.com/en-in/"><h3>Dolby Laboratories</h3></a>
+        <span class="timeline">Sep 2024 - Dec 2024</span>
         </div>
-        <p>Position: <strong>Software Engineer </strong></p>
+        <p>Position: <strong>Machine Learning and Video Coding Intern </strong></p>
         <p>Employment Type: <strong>Full Time</strong></p>        
-        <p>Location: <strong>57 N St NW, Washington DC (Remote)</strong></p>
+        <p>Location: <strong>Sunnyvale, CA, USA</strong></p>
         <p><b>Responsibilities:</b></p>
         <ul>
-            <li>Engineered a data collection pipeline from global real estate websites.</li>
-            <li>Implemented pipeline to predict house prices on various parameters using time series model.</li>
-            <li>Developed a real estate chatbot using OpenAI, Flask, and Langchain. Created and maintained backend APIs.</li>
+            <li>Advised by Dr. Peng Yin and Dr. Tong Shao</li>
+            <li>Designed an end-to-end neural network based compression algorithm for 3D Gaussian Splats</li>
+            <li>Utilized traditional video codecs to exploit inter-frame redundancies for 3DGS compression</li>
+            <li>Worked on post-training model pruning and quantization methods, shifting focus from modality-specific compression./li>
+            <li>Research submitted to IEEE ICIP/li>
         </ul>
-        <a href="https://drive.google.com/file/d/1eC2SPHpVmAvqFoKGFKLWjaiPD0jsJvVj/view?usp=drive_link"><button>View Experience Letter</button></a>
     </div>
 </div>
 
 
 <div class="project0">
     <div class="image-container0">
-        {% include figure.liquid loading="eager" path="assets/img/crosswing.jpg"%}
+        {% include figure.liquid loading="eager" path="assets/img/dolby.png"%}
     </div>
     <div class="project-details0">
         <div class="heading">
-        <a href="https://crosswing.com/"><h3>CrossWing Inc.</h3></a>
-        <span class="timeline">Sep 2021 - Dec 2022</span>
+        <a href="https://www.dolby.com/en-in/"><h3>Dolby Laboratories</h3></a>
+        <span class="timeline">May 2023 - Aug 2023</span>
         </div>
-        <p>Position: <strong>Machine Learning Engineer & Computer Vision Engineer</strong></p>
+        <p>Position: <strong>Machine Learning and Video Coding Intern </strong></p>
         <p>Employment Type: <strong>Full Time</strong></p>        
-        <p>Location: <strong>238 Wellington St E Suite 214, Aurora, ON L4G 1J5, Canada (Remote)</strong></p>
+        <p>Location: <strong>Sunnyvale, CA, USA</strong></p>
         <p><b>Responsibilities:</b></p>
         <ul>
-            <li> Leveraged OpenCV for image processing, including data augmentation, image enhancement, and feature extraction to improve model robustness.</li>
-            <li> Utilized PyTorch for building, training, and fine-tuning deep learning models, ensuring efficient handling of large-scale datasets.</li>
-            <li> Collaborated with cross-functional teams to integrate object detection models into production systems, ensuring seamless deployment and scalability.</li>
+            <li>Advised by Dr. Guan-Ming Su and Dr. Anustup Choudhury</li>
+            <li>Mastered design principles of Neural Field architectures for images, video, and audio signals, encompassing Fourier embeddings, Sine/Swish activations, and Convolution-based structures (NeRV, NeRF)</li>
+            <li>Designed a novel implicit Neural Field architectures for joint audio-video representation using time-stamp coordinates (NeRVA)</li>
+            <li>Worked on post-training model pruning and quantization methods, shifting focus from modality-specific compression./li>
+            <li>Patent submitted and research published in IEEE ICME/li>
         </ul>
     </div>
 </div>
+
+
