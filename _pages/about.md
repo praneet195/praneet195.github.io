@@ -29,8 +29,9 @@ social: false # includes social icons at the bottom of the page
 <p style="font-size: 24px; font-weight: bold;">About Me</p>
 
 <p style="font-size: 18px; line-height: 1.6;">
-Hi 👋, I am a researcher passionate about redefining possibilities in the image and video domain.
+Hi 👋, I am a researcher passionate about redefining possibilities in the image and video domain. I am seeking research opportunities in the industry starting in May 2025 to contribute to impactful innovations and help shape the future of image and video technology."
 </p>
+
 
 <p style="font-size: 24px; font-weight: bold;">Research Interests</p>
 <ul style="line-height: 1.6; font-size: 18px;">
@@ -57,7 +58,7 @@ During my Ph.D, I was driven by the challenge of advancing practical video analy
 
 
 <p style="font-size: 18px; line-height: 1.6;">
-I've also been fortunate enough to intern at <b>Dolby and Apple</b>. During my internships, I explored and published research on cutting-edge topics such as joint implicit neural field representations (audio + video), scalable video coding algorithms, and end-to-end learning-based compression of 3D Gaussian splats.
+I've also been fortunate enough to intern at <b>Dolby and Apple</b>. During my internships, I explored and published research on cutting-edge topics such as joint implicit neural field representations (audio + video), scalable video coding algorithms, and end-to-end learning-based compression of 3D gaussian splats.
 </p>
 
 
@@ -67,5 +68,5 @@ I've also been fortunate enough to intern at <b>Dolby and Apple</b>. During my i
 With my PhD research skillset and internship experience, I strive to bridge academic excellence with practical expertise, delivering innovative and impactful solutions to complex challenges.
 </p>
 <p style="font-size: 18px; line-height: 1.6;">
-    I'm looking for research-oriented opportunities in the industry starting in May 2025, focusing on image/video analytics and compression. My aim is to contribute to transformative research and influence the future of image and video technology.
+ 
 </p>
