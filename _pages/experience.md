@@ -38,7 +38,7 @@ nav_order: 2
         <span class="timeline">Sep 2024 - Dec 2024</span>
         </div>
         <p>Position: <strong>Machine Learning and Video Coding Intern </strong></p>
-        <p>Employment Type: <strong>Full Time</strong></p>        
+        <p>Employment Type: <strong>Fall internship</strong></p>        
         <p>Location: <strong>Sunnyvale, CA, USA</strong></p>
         <p><b>Responsibilities:</b></p>
         <ul>
@@ -62,7 +62,7 @@ nav_order: 2
         <span class="timeline">May 2023 - Aug 2023</span>
         </div>
         <p>Position: <strong>Machine Learning and Video Coding Intern </strong></p>
-        <p>Employment Type: <strong>Full Time</strong></p>        
+        <p>Employment Type: <strong>Summer internship</strong></p>        
         <p>Location: <strong>Sunnyvale, CA, USA</strong></p>
         <p><b>Responsibilities:</b></p>
         <ul>
@@ -73,6 +73,53 @@ nav_order: 2
             <li>Patent submitted and research published in IEEE ICME/li>
         </ul>
     </div>
+
+
+
+<div class="project0">
+    <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/apple.png"%}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <a href="https://www.apple.com/careers/us/work-at-apple.html"><h3>Apple Inc.</h3></a>
+        <span class="timeline">May 2022 - Aug 2022</span>
+        </div>
+        <p>Position: <strong>Video Coding Intern </strong></p>
+        <p>Employment Type: <strong>Summer internship</strong></p>        
+        <p>Location: <strong>Cupertino, CA, USA</strong></p>
+        <p><b>Responsibilities:</b></p>
+        <ul>
+            <li>Advised by Dr. Alexis Tourapis</li>
+            <li>Analysis of Common Test Conditions (CTC) sequences in terms of spatial, temporal, noise and compressibility characteristics </li>
+            <li>Utilized ML techniques such as super-resolution and temporal resolution for Scalable Video Compression</li>
+        </ul>
+    </div>
 </div>
+
+
+
+<div class="project0">
+    <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/iisc.png"%}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <a href="https://iisc.ac.in/"><h3>Indian Institute of Science (IISc.)</h3></a>
+        <span class="timeline">April 2018 - Aug 2019</span>
+        </div>
+        <p>Position: <strong>Research Assistant </strong></p>
+        <p>Employment Type: <strong>Full Time</strong></p>        
+        <p>Location: <strong>Bengaluru, KA, India</strong></p>
+        <p><b>Responsibilities:</b></p>
+        <ul>
+            <li>Advised by Dr. Abhay Sharma</li>
+            <li>Designed a real-time front-end Web Server System that delivers live RTMP and HLS video streams. Integrated features such as content sharing, discovering, routing, congestion managing, and load balancing. </li>
+            <li>Colloborated on implementing solutions tackling traffic analytics such as vehicle count, detection of license-plates, speed computation, and estimation of queue-length</li>
+            <li>The full framework has been successfully installed and is operational in Electronic City, Bangalore, KA, India</li>
+        </ul>
+    </div>
+</div>
+
 
 
