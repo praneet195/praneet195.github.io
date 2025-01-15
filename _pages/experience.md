@@ -114,9 +114,49 @@ nav_order: 2
         <p><b>Responsibilities:</b></p>
         <ul>
             <li>Advised by Dr. Abhay Sharma</li>
-            <li>Designed a real-time front-end Web Server System that delivers live RTMP and HLS video streams. Integrated features such as content sharing, discovering, routing, congestion managing, and load balancing. </li>
+            <li>Designed a real-time front-end Web Server System that delivers live RTMP and HLS video streams. Integrated features such as content sharing, discovering, routing, congestion managing, and load balancing </li>
             <li>Colloborated on implementing solutions tackling traffic analytics such as vehicle count, detection of license-plates, speed computation, and estimation of queue-length</li>
             <li>The full framework has been successfully installed and is operational in Electronic City, Bangalore, KA, India</li>
+        </ul>
+    </div>
+</div>
+
+
+
+<div class="project0">
+    <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/flux-auto.jpeg"%}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <a href="https://fluxauto.xyz/"><h3>Flux Auto</h3></a>
+        <span class="timeline">Sep 2017 - Feb 2018</span>
+        </div>
+        <p>Position: <strong>Self-driving Engineer</strong></p>
+        <p>Employment Type: <strong>Full Time</strong></p>        
+        <p>Location: <strong>Bengaluru, KA, India</strong></p>
+        <p><b>Responsibilities:</b></p>
+        <ul>
+            <li>Pedestrian and lane detection to achieve Level 3 autonomy for trucks in a controlled environment. Also, worked on the Over-The-Air Update infrastructure </li>
+        </ul>
+    </div>
+</div>
+
+<div class="project0">
+    <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/eci.png"%}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <a href="https://fluxauto.xyz/"><h3>ECI Telecom (Ribbon)</h3></a>
+        <span class="timeline">Mar 2017 - Nov 2017</span>
+        </div>
+        <p>Position: <strong>R&D Software Engineer</strong></p>
+        <p>Employment Type: <strong>Full Time</strong></p>        
+        <p>Location: <strong>Bengaluru, KA, India</strong></p>
+        <p><b>Responsibilities:</b></p>
+        <ul>
+            <li>Automation frameworks and testbeds for involved optical networks. Worked on aspects of Add-Drop Multiplexers, Network Distribution Cards and Ethernet Layer 2 functionalities</li>
         </ul>
     </div>
 </div>
