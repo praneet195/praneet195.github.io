@@ -41,7 +41,7 @@ Hi 👋, I am a researcher passionate about redefining possibilities in task-awa
    <li>Gaussian Splatting</li>
  
 </ul>
-</p>
+
 
 <p style="font-size: 24px; font-weight: bold;">Research and Practical Interests</p>
 <p style="font-size: 18px; line-height: 1.6;">
