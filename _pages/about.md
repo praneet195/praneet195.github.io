@@ -58,25 +58,15 @@ I am actively seeking research opportunities in the industry starting May 2025 t
 </ul>
 
 
-<p style="font-size: 24px; font-weight: bold;">Research and Practical Involvements</p>
-<p style="font-size: 18px; line-height: 1.6;">
-  
-During my Ph.D, I was driven by the challenge of advancing practical video analytics systems and compression algorithms for critical applications like autonomous driving and security. My research at Purdue <b>(funded by Ford Motor Corp.)</b> focuses on improving end-to-end computer vision systems through:
-
-<ul>
- <li> Mitigating the impact of compression on deep learning models used for computer vision tasks  </li> 
-  <li>  Developing balanced, interpretable evaluation methodologies for these models, and </li>
-  <li>
-    Designing algorithms to estimate video quality for peak system performance. </li>
+<p style="font-size: 24px; font-weight: bold;">Work Experience</p>
+<ul style="line-height: 1.6; font-size: 18px;">
+  <li>Purdue University</li>
+  <li>Dolby</li>
+  <li>Apple</li>
+  <li>Indian Institure of Science</li>
 </ul>
 
 
-<p style="font-size: 18px; line-height: 1.6;">
-I've also been fortunate enough to intern at <b>Dolby and Apple</b>. During my internships, I explored and published research on cutting-edge topics such as joint implicit neural field representations (audio + video), scalable video coding algorithms, and end-to-end learning-based compression of 3D gaussian splats.
-</p>
-<p style="font-size: 18px; line-height: 1.6;">
-With my PhD research skillset and internship experience, I strive to bridge academic excellence with practical expertise, delivering innovative and impactful solutions to complex challenges.
-</p>
 
 
 
