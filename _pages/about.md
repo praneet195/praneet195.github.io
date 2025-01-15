@@ -42,7 +42,7 @@ I'm a 5th year Ph.D candidate at Purdue University advised by Dr. Amy R. Reibman
  
 </ul>
 
-<p style="font-size: 24px; font-weight: bold;">Research and Practical Involvements</p>
+<p style="font-size: 24px; font-weight: bold;">Research and Practical Interests</p>
 <p style="font-size: 18px; line-height: 1.6;">
   
 I am driven by the challenge of advancing practical video analytics systems and compression algorithms for critical applications like autonomous driving and security. My research at Purdue University, under Dr. Amy Reibman has focused on improving end-to-end computer vision systems through:
