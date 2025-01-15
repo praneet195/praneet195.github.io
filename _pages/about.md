@@ -26,9 +26,8 @@ social: false # includes social icons at the bottom of the page
     </a>
 </div>
 
-<p style="font-size: 28px; font-weight: bold;">Hi :) I'm <b>Praneet</b> 👋</p>
 
-<p style="font-size: 18px; line-height: 1.6;">A 5th year Ph.D candidate at Purdue University advised by Dr. Amy R. Reibman. I love working on task-aware video compression, image quality assessment, implicit neural representations, and 3D gaussian splatting.</p>
+<p style="font-size: 18px; line-height: 1.6;"> Hi 👋</p>, I'm a 5th year Ph.D candidate at Purdue University advised by Dr. Amy R. Reibman. I love working on task-aware video compression, image quality assessment, implicit neural representations, and 3D gaussian splatting.</p>
 
 <p style="font-size: 24px; font-weight: bold;">Research Interests</p>
 <ul style="line-height: 1.6; font-size: 18px;">
