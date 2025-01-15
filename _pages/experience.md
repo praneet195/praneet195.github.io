@@ -8,21 +8,21 @@ nav_order: 2
 
 <div class="project0">
     <div class="image-container0">
-        {% include figure.liquid loading="eager" path="assets/img/arbisoft.jpg"%}
+        {% include figure.liquid loading="eager" path="assets/img/purdue.png"%}
     </div>
     <div class="project-details0">
         <div class="heading">
-        <a href="https://www.arbisoft.com/"><h3>Arbisoft</h3></a>
-        <span class="timeline">Aug 2023 - Present</span>
+        <a href="https://www.purdue.edu/"><h3>Purdue University</h3></a>
+        <span class="timeline">Aug 2019 - Present</span>
         </div>
-        <p>Position: <strong>Machine Learning Engineer</strong></p>
+        <p>Position: <strong>Graduate Research Assistant</strong></p>
         <p>Employment Type: <strong>Full Time</strong></p>
-        <p>Location: <strong>Karāchi, Sindh, Pakistan (On site)</strong></p>
+        <p>Location: <strong>West Lafayette, Indiana, USA</strong></p>
         <p><b>Responsibilities:</b></p>
         <ul>
-            <li>Working on a Virtual Try-On project using SDXL, VITON, and clothes segmentation models for realistic garment fitting experiences.</li>
-            <li>Led the creation of ArbiChat, an internal company chatbot powered by open-source embedding models and large language models for efficient policy-related queries.</li>
-            <li>Enhanced the Schoolgram Learning Management System with text comprehension, handwriting recognition, and scalable infrastructure using Docker and Kubernetes.</li>
+            <li>Understanding, evaluating, and mitigating the impact of video compression of computer vision systems.</li>
+            <li>Developing task-aware video compression algorithms that improve system performance on compressed video data</li>
+            <li>Designed image quality estimators and evaluation protocols to correlate the performance of deep learning models to image quality</li>
         </ul>
     </div>
 </div>
