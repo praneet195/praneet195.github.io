@@ -34,7 +34,11 @@ nav_order: 3
         <h3>Joint Multi-modal Neural Field Representations for Audio and Video</h3>
         <span class="timeline">May 2023 - Aug 2023</span>
         </div>
-        <p> I worked on this project during my summer internship at Dolby. Here, I designed a novel Neural Field architecture for joint representation of audio + video data using time-stamp coordinates. I also worked on model pruning and quantization techniques for the novel representation, shifting focus from modality-specific (audio or video) compression.</p>
+    <ul>
+        <li> Designed a novel Neural Field architecture for joint audio-video representation using time-stamp coordinates during my summer internship at Dolby </li>
+        <li> Implemented model pruning and quantization techniques to optimize the representation, moving beyond modality-specific compression </li>
+        <li> Contributed to advancing multi-modal compression techniques for audio-video data </li>
+    </ul>
     </div>
 </div>
 
@@ -49,7 +53,12 @@ nav_order: 3
         <h3>Task Aware Image Quality Estimation for End-to-end Face Analytics</h3>
         <span class="timeline">Jan 2023 - May 2024</span>
         </div>
-        <p> This project is an intergral part of my Ph.D. thesis. In this work, I designed novel task-specific Unsupervised Image Quality Estimators that correlate image quality and face detection performance through the clever utilization of regularization layers like Dropblocks to measure image robustness. I also developed new evaluation protocols for image quality estimators in face detection and recognition domains that reduced evaluation computational complexity.</p>
+        <ul>      
+             <li> Designed the first ever task-specific unsupervised image quality estimator correlating image quality with face detection performance using innovative regularization techniques like Dropblocks </li>
+             <li> Developed novel evaluation protocols for image quality estimators in face detection and recognition, significantly reducing computational complexity </li>
+            <li> Explored masked vision trasnformers as image quality estimators in face detection and recognition </li>
+             <li> This work forms an integral part of my Ph.D. thesis, advancing image quality assessment methods for robust computer vision applications </li>
+        </ul>
     </div>
 </div>
 
@@ -63,7 +72,11 @@ nav_order: 3
         <h3>Task Aware Video Compression using Lightweight Edge-specific Neural Networks</h3>
         <span class="timeline">May 2021 - May 2022</span>
         </div>
-        <p> I worked on this project during my Ph.D. while being funded by Ford Motor Corp. During this time, we first assessed the impact of video compression on the performance of deep learning models used for computer vision tasks like pedestrian detection, face detection, and face recognition. Using this knowledge, I developed a task-aware frame partitioning procedure for video encoders like HM and VVC, leveraging edge-based deep learning models like MobileNets that guide existing video encoders to intelligently allocate bits to regions important for computer vision tasks. This algorithms realized 6% bit-rate and 15% encoding time savings while maintaining video analytics performance under compression.</p>
+        <ul>
+            <li> Assessed the impact of video compression on deep learning models for tasks like pedestrian detection, face detection, and face recognition during my Ph.D., funded by Ford Motor Corp. </li>
+            <li>Developed a task-aware frame partitioning algorithm for video encoders (e.g., HM and VVC) using edge-based deep learning models like MobileNets to optimize bit allocation for critical regions </li>
+            <li> Achieved 6% bit-rate and 15% encoding time savings while maintaining video analytics performance under compression </li>
+        </ul>
     </div>
 </div>
 
@@ -77,8 +90,11 @@ nav_order: 3
         <h3>Lightweight Compression of Intermediate Neural Network Features (Video Coding for Machines)</h3>
         <span class="timeline">May 2021 - Aug 2021</span>
         </div>
-        <p> This was a fun summer project that I worked on at Purdue. In this project, I investigated the capability of existing video codecs like HEVC to encode neural network intermediate features. I also assessed the feasibility of splitting neural networks for effective encoding and transmission of intermediate features. Finally, I explored the application of Autoencoder models for Video Coding for Machines and Scalable Video Coding. 
-</p>
+        <ul> 
+<li>Investigated the capability of video codecs like HEVC to encode neural network intermediate features during a summer project at Purdue </li>
+<li>Assessed the feasibility of splitting neural networks for efficient encoding and transmission of intermediate features </li>            
+<li>Explored Autoencoder models for Video Coding for Machines and Scalable Video Coding, advancing research in machine-centric video compression </li>
+</ul>
     </div>
 </div>
 
@@ -92,8 +108,12 @@ nav_order: 3
         <h3>Dataset Curation and Systematic Evaluation of End-to-end Face Analytics</h3>
         <span class="timeline">Jan 2020 - May 2021</span>
         </div>
-        <p> I worked on this research topic during the early years of my Ph.D while being funded by Ford Motor Corp. Here, I designed an end-to-end face analytics system deployed inside a vehicle that performs sequential face detection and recognition. Next, I utilized a data collection system to capture faces inside a vehicle across multiple camera modalities, camera angles, and lighting conditions in order to create a practical diverse dataset. From this large data, I curated a practically usable dataset for the systematic evaluation of the end-to-end face analytics system. The curated dataset was balanced, had all the properties of the original dataset, and captured the interdependence between tasks such as face detection and recognition which is typically ignored in face datasets. 
-</p>
+        <ul> 
+<li> Designed an end-to-end in-vehicle face analytics system for sequential face detection and recognition during the early years of my Ph.D., funded by Ford Motor Corp </li>
+<li> Developed a data collection system to capture diverse in-vehicle face data across multiple camera modalities, angles, and lighting conditions </li>
+<li> Curated a balanced dataset preserving original properties and capturing task interdependence, enabling systematic evaluation of face analytics systems </li>
+            <li> Performed a meaningful and interpretable evaluation of an end-to-end face analytics system using the carefully curated data to gain valubale performance insights.</li>
+        </ul>
     </div>
 </div>
 
@@ -106,8 +126,11 @@ nav_order: 3
         <h3>Background-Foreground Segmentation for Camera-Trap Images using RobustPCA</h3>
         <span class="timeline">Aug 2019 - Dec 2019</span>
         </div>
-        <p> This was my first research project at Purdue. In this project, I developed an unsupervised robust saliency predictor using robust PCA, which aids in differentiating between background and foreground in camera-trap images. This method eliminates the need for training, while offering performance similar to learning models such as R3-Net. The system has been employed to and track animal movements, calculate population densities, and identify habitual patterns in animal activities.
-</p>
+        <ul> 
+     <li> Developed an unsupervised robust saliency predictor using robust PCA to differentiate background and foreground in camera-trap images during my first research project at Purdue </li>
+<li> Achieved performance comparable to learning-based models (e.g., R3-Net) without requiring training </li>
+<li> Applied the system to track animal movements, calculate population densities, and analyze habitual patterns in wildlife activities </li>
+        </ul>
     </div>
 </div>
 
@@ -121,8 +144,10 @@ nav_order: 3
         <h3>EdgeDetect - A lightweight framework to detect DDoS attacks on Edge nodes</h3>
         <span class="timeline">July 2018 - Aug 2019</span>
         </div>
-        <p> I worked on this topic under the supervision of Dr. Reshmi Mitra when I was at the Indian Institute of Scince. Here, I built a unique system to detect DDoS attacks on edge devices with the application of Recurrent Neural Networks (RNNs). The system accomplished state-of-the-art performance on the UNSW 2015 dataset with the advantage of maintaining minimal model architecture suitable for edge devices.
-</p>
+        <ul> 
+  <li> Built a system for detecting DDoS attacks on edge devices using Recurrent Neural Networks (RNNs) under the supervision of Dr. Reshmi Mitra at the Indian Institute of Science </li>
+<li> Achieved state-of-the-art performance on the UNSW 2015 dataset with a minimal model architecture optimized for edge devices </li>
+        </ul>
     </div>
 </div>
 
@@ -135,8 +160,11 @@ nav_order: 3
         <h3>Traffic Analytics Architecture and Dataset for Indian Roads using a Monocular Surveillance Camera Network</h3>
         <span class="timeline">April 2018 - Aug 2019</span>
         </div>
-        <p> This project was undertaken at the Indian Institute of Scince under the supervision of Dr. Abhay Sharma. In this project, I designed a real-time front-end Web Server System that delivers live RTMP and HLS video streams with integrated features such as content sharing, discovering, routing, congestion managing, and load balancing.. I also colloborated on solutions tackling traffic analytics such as vehicle count, detection of license-plates, speed computation, and estimation of queue-length. The full framework has been successfully installed and is operational in Electronic City, Bangalore, India.
-</p>
+        <ul>
+<li> Designed a real-time front-end web server system for delivering live RTMP and HLS video streams with features like content sharing, routing, congestion management, and load balancing under the supervision of Dr. Abhay Sharma at the Indian Institute of Science </li>
+<li> Collaborated on traffic analytics solutions, including vehicle counting, license plate detection, speed computation, and queue-length estimation </li>
+<li> Successfully deployed the full framework in Electronic City, Bangalore, India </li>
+        </ul>
     </div>
 </div>
 
