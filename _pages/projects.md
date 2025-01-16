@@ -15,7 +15,11 @@ nav_order: 3
         <h3>Compression of 3D/4D Gaussian Splats</h3>
         <span class="timeline">Sep 2024 - Dec 2024</span>
         </div>
-        <p>This project was part of my fall internship at Dolby. During my internship, I designed an end-to-end neural network based compression algorithm for 3D gaussian splats. I also worked on compressing spherical harmonic coefficients of 3D gaussian splats (occupy ~50% size) using conventional inter-frame video coding tools.</p>
+        <ul>
+            <li> Designed an end-to-end neural network-based compression algorithm for 3D Gaussian splats during my internship at Dolby </li>
+            <li> Developed techniques to compress spherical harmonic coefficients (~50% size) using inter-frame video coding tools, achieving significant storage and bandwidth efficiency </li>
+            <li> Applied hybrid methods combining neural networks and conventional tools, contributing to advanced 3D content compression solutions </li>
+        </ul>       
     </div>
 </div>
 
