@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Sr. Neural Video Processing Engineer @ Dolby Laboratories
+subtitle: Sr. Neural Video Codec Researcher @ Dolby Laboratories
 
 profile:
   align: right
@@ -29,7 +29,7 @@ social: false # includes social icons at the bottom of the page
 <p style="font-size: 24px; font-weight: bold;">About Me</p>
 
 <p style="font-size: 18px; line-height: 1.6;">
-I am a Sr. Neural Video Processing Engineer at Dolby Laboratories. I develop learned codecs for images, video and 3D scenes, build video foundation models, and contribute to JVET's next-generation video coding standard.
+I am a Sr. Neural Video Codec Researcher at Dolby Laboratories. I develop learned codecs for images, video and 3D scenes, build video foundation models, and contribute to JVET's next-generation video coding standard.
 </p>
 
 <p style="font-size: 18px; line-height: 1.6;">

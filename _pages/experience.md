@@ -15,7 +15,7 @@ nav_order: 2
         <a href="https://www.dolby.com/"><h3>Dolby Laboratories</h3></a>
         <span class="timeline">Jun 2025 - Present</span>
         </div>
-        <p>Position: <strong>Sr. Neural Video Processing Engineer</strong></p>
+        <p>Position: <strong>Sr. Neural Video Codec Researcher</strong></p>
         <p>Employment Type: <strong>Full Time</strong></p>
         <p>Location: <strong>Sunnyvale, CA, USA</strong></p>
         <p><b>Responsibilities:</b></p>
