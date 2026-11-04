@@ -8,23 +8,46 @@ nav_order: 2
 
 <div class="project0">
     <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/dolby_new.jpg"%}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <a href="https://www.dolby.com/"><h3>Dolby Laboratories</h3></a>
+        <span class="timeline">Jun 2025 - Present</span>
+        </div>
+        <p>Position: <strong>Sr. Neural Video Processing Engineer</strong></p>
+        <p>Employment Type: <strong>Full Time</strong></p>
+        <p>Location: <strong>Sunnyvale, CA, USA</strong></p>
+        <p><b>Responsibilities:</b></p>
+        <ul>
+            <li>Video Coding Standards group, managed by Dr. Brian Lee</li>
+            <li>Learned codecs for images, video and 3D scenes; generative (diffusion, flow-matching) ultra-low-bitrate compression</li>
+            <li>Build video foundation models for neural video processing</li>
+            <li>JVET contributions to Next Generation Video Coding (beyond VVC) on end-to-end learned image and video compression</li>
+            <li>Research published at ECCV 2026</li>
+        </ul>
+    </div>
+</div>
+
+<div class="project0">
+    <div class="image-container0">
         {% include figure.liquid loading="eager" path="assets/img/purdue.png"%}
     </div>
     <div class="project-details0">
         <div class="heading">
         <a href="https://www.purdue.edu/"><h3>Purdue University</h3></a>
-        <span class="timeline">Aug 2019 - Present</span>
+        <span class="timeline">Aug 2019 - May 2025</span>
         </div>
         <p>Position: <strong>Graduate Research Assistant</strong></p>
         <p>Employment Type: <strong>Full Time</strong></p>
         <p>Location: <strong>West Lafayette, Indiana, USA</strong></p>
         <p><b>Responsibilities:</b></p>
         <ul>
-            <li>Advised by Dr. Amy R. Reibman</li>
+            <li>Advised by Dr. Amy R. Reibman and Dr. Edward J. Delp (VADL Lab); PhD funded by Ford Motor Company</li>
             <li>Understanding, evaluating, and mitigating the impact of video compression of computer vision systems</li>
             <li>Developing task-aware video compression algorithms that improve system performance on compressed video data</li>
             <li>Designed image quality estimators and evaluation protocols to correlate the performance of deep learning models to image quality</li>
-            <li>Research published in IEEE ICIP, IEEE MMSP, IEEE MIPR, and Electronic Imaging </li>
+            <li>Research published in IEEE ICIP, IEEE MMSP, IEEE MIPR, EURASIP JIVP, and Electronic Imaging</li>
         </ul>
     </div>
 </div>
@@ -47,7 +70,7 @@ nav_order: 2
             <li>Designed an end-to-end neural network based compression algorithm for 3D Gaussian Splats</li>
             <li>Utilized traditional video codecs to exploit inter-frame redundancies for 3DGS compression</li>
             <li>Worked on post-training model pruning and quantization methods, shifting focus from modality-specific compression</li>
-            <li>Research submitted to IEEE ICIP</li>
+            <li>Research published at IEEE ICME Workshops 2026</li>
         </ul>
     </div>
 </div>
@@ -149,7 +172,7 @@ nav_order: 2
     </div>
     <div class="project-details0">
         <div class="heading">
-        <a href="https://fluxauto.xyz/"><h3>ECI Telecom (Ribbon)</h3></a>
+        <h3>ECI Telecom (Ribbon)</h3>
         <span class="timeline">Mar 2017 - Nov 2017</span>
         </div>
         <p>Position: <strong>R&D Software Engineer</strong></p>

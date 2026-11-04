@@ -8,6 +8,24 @@ nav_order: 3
 
 <div class="project0">
     <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/dolby_new.jpg" style="width: 300px; height: 300px;"  %}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <h3>MixCompress: Mixture of Experts for Variable Rate Learned Image Compression</h3>
+        <span class="timeline">ECCV 2026</span>
+        </div>
+        <ul>
+            <li> One mixture-of-experts model covers all rates, replacing a bank of single-rate codecs (<a href="https://arxiv.org/abs/2607.14334">arXiv</a>) </li>
+            <li> 20&ndash;29% BD-rate savings (PSNR) vs. VVC (VTM-23.1) on Kodak, CLIC and Tecnick </li>
+        </ul>
+    </div>
+</div>
+
+
+
+<div class="project0">
+    <div class="image-container0">
         {% include figure.liquid loading="eager" path="assets/img/gaussians.png" style="width: 300px; height: 300px;"  %}
     </div>
     <div class="project-details0">
@@ -19,6 +37,7 @@ nav_order: 3
             <li> Designed an end-to-end neural network-based compression algorithm for 3D Gaussian splats during my internship at Dolby </li>
             <li> Developed techniques to compress spherical harmonic coefficients (~50% size) using inter-frame video coding tools, achieving significant storage and bandwidth efficiency </li>
             <li> Applied hybrid methods combining neural networks and conventional tools, contributing to advanced 3D content compression solutions </li>
+            <li> Published at IEEE ICME Workshops 2026 </li>
         </ul>       
     </div>
 </div>

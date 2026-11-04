@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Praneet
 middle_name: 
 last_name: Singh
-email: singh671@purdue.edu
+email: praneet195@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to the academic portfolio of Praneet Singh. Here, you will find comprehensive information about his projects, publications, news updates, CV, and more. This site serves as a detailed showcase of his academic journey and professional accomplishments.
 footer_text: >
@@ -259,8 +259,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Singh]
+  first_name: [Praneet]
 
   style: apa
   locale: en
